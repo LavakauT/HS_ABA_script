@@ -1,0 +1,5 @@
+file	CATTCC	CTAAAC	AAATCG	GATAGA
+neg_C14_7_distinct_pcc_enriched_kmer.txt	NA	NA	0.00	0.01	
+neg_C14_3_distinct_pcc_enriched_kmer.txt	0.01	NA	NA	NA	
+neg_C14_5_distinct_pcc_enriched_kmer.txt	NA	0.01	NA	NA	
+count	1	1	1	1	

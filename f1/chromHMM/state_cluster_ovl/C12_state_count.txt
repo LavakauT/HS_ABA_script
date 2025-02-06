@@ -1,0 +1,13 @@
+   1 C12_E1.bed
+  18 C12_E10.bed
+   2 C12_E11.bed
+   1 C12_E12.bed
+   3 C12_E2.bed
+   9 C12_E3.bed
+   6 C12_E4.bed
+   2 C12_E5.bed
+   1 C12_E6.bed
+   2 C12_E7.bed
+   3 C12_E8.bed
+   3 C12_E9.bed
+  51 total

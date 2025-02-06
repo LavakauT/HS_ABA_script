@@ -1,0 +1,6 @@
+gene	RNA_cluster	ATAC_cluster
+Mp2g06620	C1	C7
+Mp3g16660	C1	C7
+Mp5g08770	C1	C7
+Mp7g07160	C1	C7
+Mp7g19240	C1	C7

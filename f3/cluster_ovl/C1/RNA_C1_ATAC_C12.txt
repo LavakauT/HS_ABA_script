@@ -1,0 +1,2 @@
+gene	RNA_cluster	ATAC_cluster
+Mp5g14210	C1	C12

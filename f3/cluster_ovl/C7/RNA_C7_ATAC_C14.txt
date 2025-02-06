@@ -1,0 +1,4 @@
+gene	RNA_cluster	ATAC_cluster
+Mp1g21980	C7	C14
+Mp3g03530	C7	C14
+Mp8g00920	C7	C14

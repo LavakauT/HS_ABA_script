@@ -1,0 +1,3 @@
+gene	RNA_cluster	ATAC_cluster
+Mp4g21880	C1	C13
+Mp5g18820	C1	C13

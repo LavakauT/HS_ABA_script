@@ -1,0 +1,15 @@
+Feature	Frequency	group
+Promoter	16.338395131341	hsfa CK-merge
+1st Exon	28.7569753650522	hsfa CK-merge
+Other Exon	9.13845735062511	hsfa CK-merge
+1st Intron	0.873014329878867	hsfa CK-merge
+Other Intron	1.05189477163578	hsfa CK-merge
+Downstream (<=300)	1.42326612354417	hsfa CK-merge
+Distal Intergenic	42.4179969279228	hsfa CK-merge
+Promoter	16.6301761066159	hsfa ABA-merge
+1st Exon	28.5007139457401	hsfa ABA-merge
+Other Exon	9.11565920990005	hsfa ABA-merge
+1st Intron	0.835792479771537	hsfa ABA-merge
+Other Intron	0.991908614945264	hsfa ABA-merge
+Downstream (<=300)	1.46596858638743	hsfa ABA-merge
+Distal Intergenic	42.4597810566397	hsfa ABA-merge

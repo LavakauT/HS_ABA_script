@@ -1,0 +1,9 @@
+ArrayTaskID	sample	rep1	rep2	rep3
+1	Tak1-CK	Tak1-CK1	Tak1-CK2	Tak1-CK3
+2	Tak1-ABA	Tak1-ABA1	Tak1-ABA2	Tak1-ABA3
+3	hsfa-CK	Hsfa-CK1	Hsfa-CK2	Hsfa-CK3
+4	hsfa-ABA	Hsfa-ABA1	Hsfa-ABA2	Hsfa-ABA3
+5	hsfb-CK	Hsfb-CK1	Hsfb-CK2	Hsfb-CK3
+6	hsfb-ABA	Hsfb-ABA1	Hsfb-ABA2	Hsfb-ABA3
+7	dko-CK	Dko-CK1	Dko-CK2	Dko-CK3
+8	dko-ABA	Dko-ABA1	Dko-ABA2	Dko-ABA3

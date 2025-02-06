@@ -1,0 +1,9 @@
+   49326 Tak1-ABA-merge_peaks.narrowPeak
+   47393 Tak1-CK-merge_peaks.narrowPeak
+   48854 dko-ABA-merge_peaks.narrowPeak
+   48604 dko-CK-merge_peaks.narrowPeak
+   52556 hsfa-ABA-merge_peaks.narrowPeak
+   51459 hsfa-CK-merge_peaks.narrowPeak
+   47858 hsfb-ABA-merge_peaks.narrowPeak
+   49646 hsfb-CK-merge_peaks.narrowPeak
+  395696 total

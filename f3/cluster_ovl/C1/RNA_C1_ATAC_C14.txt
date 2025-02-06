@@ -1,0 +1,2 @@
+gene	RNA_cluster	ATAC_cluster
+Mp3g14440	C1	C14

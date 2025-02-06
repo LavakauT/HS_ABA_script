@@ -1,0 +1,5 @@
+gene	RNA_cluster	ATAC_cluster
+Mp1g28920	C6	C15
+Mp5g04600	C6	C15
+Mp5g20380	C6	C15
+Mp8g04700	C6	C15

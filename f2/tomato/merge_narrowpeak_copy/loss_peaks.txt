@@ -1,0 +1,4 @@
+   319 /Users/user/Desktop/tomato_atac/merge_narrowpeak_copy/bed/loss/loss_ATAC_M82_1h_vs_0h.bed
+  2371 /Users/user/Desktop/tomato_atac/merge_narrowpeak_copy/bed/loss/loss_ATAC_M82_6h_vs_0h.bed
+ 12586 /Users/user/Desktop/tomato_atac/merge_narrowpeak_copy/bed/loss/loss_ATAC_M82_6h_vs_1h.bed
+ 15276 total

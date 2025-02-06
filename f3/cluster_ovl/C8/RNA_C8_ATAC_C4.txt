@@ -1,0 +1,4 @@
+gene	RNA_cluster	ATAC_cluster
+Mp2g13740	C8	C4
+Mp5g15650	C8	C4
+Mp6g04710	C8	C4

@@ -1,0 +1,27 @@
+GO.ID	Term	Value	Count	Group
+GO:0001101	response to acid chemical	-3.52841494581481	58	HSF3_DAP_target
+GO:0006013	mannose metabolic process	-2.10557316203581	3	HSF3_DAP_target
+GO:0006285	base-excision repair, AP site formation	-1.3332948638801	2	HSF3_DAP_target
+GO:0006457	protein folding	-2.79398412323666	22	HSF3_DAP_target
+GO:0006542	glutamine biosynthetic process	-6.2839966563652	6	HSF3_DAP_target
+GO:0006643	membrane lipid metabolic process	-3.11924355548979	13	HSF3_DAP_target
+GO:0006680	glucosylceramide catabolic process	-4.14569395819892	4	HSF3_DAP_target
+GO:0006950	response to stress	-9.41873319472633	160	HSF3_DAP_target
+GO:0006952	defense response	-1.7026772857947	64	HSF3_DAP_target
+GO:0009156	ribonucleoside monophosphate biosynthetic process	-3.09996076451268	12	HSF3_DAP_target
+GO:0009266	response to temperature stimulus	-11.3927594961683	51	HSF3_DAP_target
+GO:0016071	mRNA metabolic process	-1.72561120444962	25	HSF3_DAP_target
+GO:0018106	peptidyl-histidine phosphorylation	-2.20418947533259	4	HSF3_DAP_target
+GO:0033258	plastid DNA metabolic process	-1.64955814346494	2	HSF3_DAP_target
+GO:0033993	response to lipid	-1.95506845385084	37	HSF3_DAP_target
+GO:0042221	response to chemical	-6.48558507941963	126	HSF3_DAP_target
+GO:0044237	cellular metabolic process	-1.86934465097797	346	HSF3_DAP_target
+GO:0044238	primary metabolic process	-1.52797530229972	342	HSF3_DAP_target
+GO:0044550	secondary metabolite biosynthetic process	-12.4045037781744	41	HSF3_DAP_target
+GO:0045048	protein insertion into ER membrane	-1.3332948638801	2	HSF3_DAP_target
+GO:0045087	innate immune response	-1.46801044858745	19	HSF3_DAP_target
+GO:0051274	beta-glucan biosynthetic process	-2.7476324855401	9	HSF3_DAP_target
+GO:0052542	defense response by callose deposition	-1.39588199380797	4	HSF3_DAP_target
+GO:0070478	nuclear-transcribed mRNA catabolic process, 3'-5' exonucleolytic nonsense-mediated decay	-1.64955814346494	2	HSF3_DAP_target
+GO:0072488	ammonium transmembrane transport	-5.3122035886187	6	HSF3_DAP_target
+GO:0072522	purine-containing compound biosynthetic process	-4.15323004646278	15	HSF3_DAP_target

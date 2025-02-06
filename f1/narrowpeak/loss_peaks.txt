@@ -1,0 +1,5 @@
+  1016 loss_Tak1_HS_vs_CK.bed
+  9704 loss_dko_HS_vs_CK.bed
+  3733 loss_hsfa_HS_vs_CK.bed
+  4690 loss_hsfb_HS_vs_CK.bed
+ 19143 total

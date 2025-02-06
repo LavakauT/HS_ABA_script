@@ -1,0 +1,4 @@
+gene	RNA_cluster	ATAC_cluster
+Mp4g03680	C6	C11
+Mp5g11300	C6	C11
+Mp5g19990	C6	C11

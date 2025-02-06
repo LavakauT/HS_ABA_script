@@ -1,0 +1,15 @@
+Feature	Frequency	group
+Promoter	16.5076137919588	dko CK
+1st Exon	29.5070743952533	dko CK
+Other Exon	8.4353346334177	dko CK
+1st Intron	0.77382681216547	dko CK
+Other Intron	0.985436288950666	dko CK
+Downstream (<=300)	1.30077590141488	dko CK
+Distal Intergenic	42.4899381768391	dko CK
+Promoter	14.6567663545916	dko HS
+1st Exon	33.2668094972559	dko HS
+Other Exon	9.2477915064714	dko HS
+1st Intron	0.478384644733367	dko HS
+Other Intron	0.763067531476536	dko HS
+Downstream (<=300)	1.50559093710563	dko HS
+Distal Intergenic	40.0815895283656	dko HS

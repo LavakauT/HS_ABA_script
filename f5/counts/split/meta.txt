@@ -1,0 +1,17 @@
+genotype	treatment	replicate	sample	batch
+Tak1	ABA	1	s1	1
+Tak1	ABA	2	s2	2
+Tak1	Mock	1	s3	1
+Tak1	Mock	2	s4	2
+dko	ABA	1	s5	1
+dko	ABA	2	s6	2
+dko	Mock	1	s7	1
+dko	Mock	2	s8	2
+hsfa	ABA	1	s9	1
+hsfa	ABA	2	s10	2
+hsfa	Mock	1	s11	1
+hsfa	Mock	2	s12	2
+hsfb	ABA	1	s13	1
+hsfb	ABA	2	s14	2
+hsfb	Mock	1	s15	1
+hsfb	Mock	2	s16	2

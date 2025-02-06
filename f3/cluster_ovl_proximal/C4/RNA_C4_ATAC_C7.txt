@@ -1,0 +1,3 @@
+geneId	RNA_cluster	ATAC_cluster	peak	seqnames	start	end	width	distanceToTSS
+Mp2g05950	C4	C7	chr2.6186388.6187275	chr2	6186388	6187275	888	1429
+Mpzg02050b	C4	C7	unplaced-scaffold_330.3107.4395	unplaced-scaffold_330	3107	4395	1289	57

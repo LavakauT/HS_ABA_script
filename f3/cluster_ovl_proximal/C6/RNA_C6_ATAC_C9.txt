@@ -1,0 +1,2 @@
+geneId	RNA_cluster	ATAC_cluster	peak	seqnames	start	end	width	distanceToTSS
+Mp3g21360	C6	C9	chr3.22081776.22082183	chr3	22081776	22082183	408	1400

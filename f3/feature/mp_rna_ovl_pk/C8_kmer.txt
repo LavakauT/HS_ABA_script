@@ -1,0 +1,12 @@
+file	CGAGTC	CGACCA	CAGCCG	GCAGCA	ACCGGC	GCATCC	CGCTGC	ATGGTC	CATCGC	CGTCTC	GCTGCA	ACTGCC	CAGCAG	CGCAAG	CTGGCA	GCCACA	GACTGC	ACAGGA	CTGGAC	CAGTCA	CATGGC	GCTCCA	AGAGCA	GAGTAC
+neg_C8_5.txt.fa_distinct_pcc_enriched_kmer.txt	0.01	NA	NA	NA	0.00	NA	NA	NA	NA	0.00	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	
+neg_C8_9.txt.fa_distinct_pcc_enriched_kmer.txt	0.01	0.01	NA	NA	NA	NA	0.00	NA	NA	NA	0.00	NA	NA	NA	NA	NA	0.00	NA	NA	NA	NA	NA	NA	NA	
+neg_C8_1.txt.fa_distinct_pcc_enriched_kmer.txt	0.01	0.01	0.00	0.00	NA	NA	NA	0.00	NA	NA	NA	NA	NA	NA	NA	NA	NA	0.00	NA	NA	NA	NA	NA	NA	
+neg_C8_2.txt.fa_distinct_pcc_enriched_kmer.txt	0.01	NA	NA	0.00	0.00	0.00	NA	NA	NA	NA	NA	0.00	0.00	0.00	0.00	NA	NA	NA	NA	0.01	NA	NA	NA	NA	
+neg_C8_3.txt.fa_distinct_pcc_enriched_kmer.txt	NA	NA	NA	NA	NA	0.00	NA	NA	0.00	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	
+neg_C8_4.txt.fa_distinct_pcc_enriched_kmer.txt	0.01	NA	0.00	NA	NA	0.00	0.00	NA	NA	NA	NA	NA	NA	NA	0.00	0.00	NA	NA	NA	NA	0.00	0.00	NA	NA	
+neg_C8_6.txt.fa_distinct_pcc_enriched_kmer.txt	0.01	0.01	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0.00	NA	NA	NA	0.00	NA	NA	NA	NA	NA	0.00	NA	
+neg_C8_7.txt.fa_distinct_pcc_enriched_kmer.txt	NA	NA	NA	NA	NA	NA	0.00	NA	NA	NA	NA	0.00	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0.00	
+neg_C8_8.txt.fa_distinct_pcc_enriched_kmer.txt	0.01	0.01	NA	NA	0.00	NA	NA	0.00	NA	NA	NA	NA	NA	0.00	NA	0.00	NA	NA	NA	NA	NA	NA	NA	NA	
+neg_C8_10.txt.fa_distinct_pcc_enriched_kmer.txt	NA	NA	0.00	0.00	NA	NA	NA	NA	0.00	0.00	0.00	NA	NA	NA	NA	NA	NA	NA	0.00	NA	NA	NA	NA	NA	
+count	7	4	3	3	3	3	3	2	2	2	2	2	2	2	2	2	2	1	1	1	1	1	1	1	

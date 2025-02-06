@@ -1,0 +1,15 @@
+Feature	Frequency	group
+Promoter	16.6536292148709	dko CK-merge
+1st Exon	29.0707727778007	dko CK-merge
+Other Exon	8.45650294371938	dko CK-merge
+1st Intron	0.778130017703487	dko CK-merge
+Other Intron	0.992218699822965	dko CK-merge
+Downstream (<=300)	1.33393717320598	dko CK-merge
+Distal Intergenic	42.7148091728766	dko CK-merge
+Promoter	16.8885429893909	dko ABA-merge
+1st Exon	28.7674599598575	dko ABA-merge
+Other Exon	8.42174251423422	dko ABA-merge
+1st Intron	0.790562405275878	dko ABA-merge
+Other Intron	1.0015155859583	dko ABA-merge
+Downstream (<=300)	1.31896940154836	dko ABA-merge
+Distal Intergenic	42.8112071437349	dko ABA-merge

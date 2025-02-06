@@ -1,0 +1,3 @@
+gene	RNA_cluster	ATAC_cluster
+Mp2g18740	C4	C12
+Mp7g15550	C4	C12

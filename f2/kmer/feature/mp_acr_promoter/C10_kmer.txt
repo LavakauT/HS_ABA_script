@@ -1,0 +1,10 @@
+file	CAGCTA	TGGCAA	CCAGAC	CTGGCC	ACTGCT	GACGGC	AGATGCC	AGCAGG	AGCTCA	AGTCGG	CAGCAG	CAGGAG	CCACCA	CTCCAG	CTCCAGC	CTGAGC	CTGGAC	GGTGGA	ACGCAAC	CTGCACC	ACTCTG	AGAGCT
+neg_C10_4_distinct_pcc_enriched_kmer.txt	NA	0.00	NA	NA	NA	NA	0.00	0.01	0.01	0.00	0.01	0.00	0.00	0.00	0.00	0.00	0.01	0.01	NA	NA	NA	NA	
+neg_C10_9_distinct_pcc_enriched_kmer.txt	0.00	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0.01	0.00	
+neg_C10_10_distinct_pcc_enriched_kmer.txt	NA	NA	0.00	0.00	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	
+neg_C10_5_distinct_pcc_enriched_kmer.txt	0.00	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0.00	NA	NA	NA	
+neg_C10_2_distinct_pcc_enriched_kmer.txt	NA	0.00	NA	NA	0.01	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	
+neg_C10_3_distinct_pcc_enriched_kmer.txt	NA	NA	NA	NA	NA	0.00	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	
+neg_C10_7_distinct_pcc_enriched_kmer.txt	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0.00	NA	NA	
+neg_C10_8_distinct_pcc_enriched_kmer.txt	0.00	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	
+count	3	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	

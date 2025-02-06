@@ -1,0 +1,17 @@
+ArrayTaskID	SampleName
+1	Tak-CK1
+2	Tak-HS1
+3	hsfa-CK1
+4	hsfa-HS1
+5	hsfb-CK1
+6	hsfb-HS1
+7	dko-CK1
+8	dko-HS1
+9	Tak-CK2
+10	Tak-HS2
+11	hsfa-CK2
+12	hsfa-HS2
+13	hsfb-CK2
+14	hsfb-HS2
+15	dko-CK2
+16	dko-HS2

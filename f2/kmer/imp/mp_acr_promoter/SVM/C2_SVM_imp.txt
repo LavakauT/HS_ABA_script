@@ -1,0 +1,6 @@
+file	TCTAGA	GTTCTA	CTAGAA	TCGGAA	AGCAGG	GCACGA	GATGCC	CTGGAC	CTCCAG	ATCTCG	CGTGCA	CTCTCA
+neg_C2_4.pcre_df_p0.01_mod.txt_SVM_imp	0.33	0.89	1.00	0.78	0.67	0.56	0.44	0.22	0.11	NA	NA	NA	
+neg_C2_9.pcre_df_p0.01_mod.txt_SVM_imp	1.00	0.75	NA	NA	NA	NA	NA	NA	NA	NA	0.50	0.25	
+neg_C2_7.pcre_df_p0.01_mod.txt_SVM_imp	0.50	NA	NA	NA	NA	NA	NA	NA	NA	1.00	NA	NA	
+neg_C2_6.pcre_df_p0.01_mod.txt_SVM_imp	1.00	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	
+count	4	2	1	1	1	1	1	1	1	1	1	1	

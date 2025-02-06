@@ -1,0 +1,16 @@
+ArrayTaskID	sample	pos
+1	C1	C1_peak.fasta
+2	C2	C2_peak.fasta
+3	C3	C3_peak.fasta
+4	C4	C4_peak.fasta
+5	C5	C5_peak.fasta
+6	C6	C6_peak.fasta
+7	C7	C7_peak.fasta
+8	C8	C8_peak.fasta
+9	C9	C9_peak.fasta
+10	C10	C10_peak.fasta
+11	C11	C11_peak.fasta
+12	C12	C12_peak.fasta
+13	C13	C13_peak.fasta
+14	C14	C14_peak.fasta
+15	C15	C15_peak.fasta

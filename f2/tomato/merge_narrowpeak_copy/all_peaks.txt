@@ -1,0 +1,4 @@
+   6500 /Users/user/Desktop/tomato_atac/merge_narrowpeak_copy/ATAC_M82_0h_peaks.narrowPeak
+  17259 /Users/user/Desktop/tomato_atac/merge_narrowpeak_copy/ATAC_M82_1h_peaks.narrowPeak
+   5039 /Users/user/Desktop/tomato_atac/merge_narrowpeak_copy/ATAC_M82_6h_peaks.narrowPeak
+  28798 total

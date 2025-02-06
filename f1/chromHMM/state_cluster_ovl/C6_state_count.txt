@@ -1,0 +1,13 @@
+  134 C6_E1.bed
+  210 C6_E10.bed
+    3 C6_E11.bed
+    0 C6_E12.bed
+  387 C6_E2.bed
+  343 C6_E3.bed
+  131 C6_E4.bed
+  217 C6_E5.bed
+  271 C6_E6.bed
+   77 C6_E7.bed
+   33 C6_E8.bed
+   12 C6_E9.bed
+ 1818 total

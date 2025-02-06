@@ -1,0 +1,14 @@
+ArrayTaskID	Sample	extsize
+1	Upp5_H3	150
+2	Upp5_H2Aub	150
+3	Upp5_H3K27me3	150
+4	H3K4me3_Tak1	50
+5	H3K4me1_Tak1	50
+6	H3K36me3_Tak1	124
+7	H3K9ac_Tak1	75
+8	H3K14ac_Tak1	75
+9	H3K27me1_Tak1	50
+10	H2AZ_Tak1	50
+11	H3K27me3_Tak1	50
+12	H3_Tak1	50
+13	H3K9me1_Tak1	50

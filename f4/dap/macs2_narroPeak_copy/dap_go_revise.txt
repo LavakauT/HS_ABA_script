@@ -1,0 +1,11 @@
+GO.ID	Term	Value	Count	Group
+GO:0009266	response to temperature stimulus	-11.3927595	51	HSF3_DAP_target
+GO:0006950	response to stress	-9.418733195	160	HSF3_DAP_target
+GO:0006542	glutamine biosynthetic process	-6.283996656	6	HSF3_DAP_target
+GO:0072488	ammonium transmembrane transport	-5.312203589	6	HSF3_DAP_target
+GO:0072522	purine-containing compound biosynthetic process	-4.153230046	15	HSF3_DAP_target
+GO:0001101	response to acid chemical	-3.528414946	58	HSF3_DAP_target
+GO:0006643	membrane lipid metabolic process	-3.119243555	13	HSF3_DAP_target
+GO:0009156	ribonucleoside monophosphate biosynthetic process	-3.099960765	12	HSF3_DAP_target
+GO:0006457	protein folding	-2.793984123	22	HSF3_DAP_target
+GO:0033993	response to lipid	-1.955068454	37	HSF3_DAP_target

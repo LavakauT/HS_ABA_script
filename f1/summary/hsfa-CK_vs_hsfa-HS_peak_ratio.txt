@@ -1,0 +1,15 @@
+Feature	Frequency	group
+Promoter	15.4887339925434	hsfa CK
+1st Exon	34.0330685686497	hsfa CK
+Other Exon	8.03209596368941	hsfa CK
+1st Intron	0.610579780623548	hsfa CK
+Other Intron	0.775382287783001	hsfa CK
+Downstream (<=300)	0.994218403847193	hsfa CK
+Distal Intergenic	40.0659210028638	hsfa CK
+Promoter	14.0998207159794	hsfa HS
+1st Exon	34.1709559886646	hsfa HS
+Other Exon	9.7304956335666	hsfa HS
+1st Intron	0.477126828986178	hsfa HS
+Other Intron	0.792319703892198	hsfa HS
+Downstream (<=300)	1.39378867618993	hsfa HS
+Distal Intergenic	39.3354924527211	hsfa HS

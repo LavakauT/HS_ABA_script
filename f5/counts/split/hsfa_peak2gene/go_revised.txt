@@ -1,0 +1,9 @@
+GO.ID	Term	Value	Count	Group
+GO:0006091	generation of precursor metabolites and energy	-4.145693958	8	au_gene
+GO:0009416	response to light stimulus	-3.194295296	9	au_gene
+GO:0015979	photosynthesis	-3.08772479	6	au_gene
+GO:0018193	peptidyl-amino acid modification	-4.145693958	8	au_gene
+GO:0090377	seed trichome initiation	-5.464452721	4	au_gene
+GO:0009664	plant-type cell wall organization	-3.345630909	6	ad_gene
+GO:0042744	hydrogen peroxide catabolic process	-6.056950889	7	ad_gene
+GO:0045229	external encapsulating structure organization	-2.020770407	8	ad_gene

@@ -1,0 +1,3 @@
+gene	RNA_cluster	ATAC_cluster
+Mp6g14340	C7	C4
+Mp7g19220	C7	C4

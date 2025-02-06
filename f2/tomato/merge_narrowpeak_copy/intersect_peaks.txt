@@ -1,0 +1,4 @@
+  6196 /Users/user/Desktop/tomato_atac/merge_narrowpeak_copy/bed/intersect/intersect_ATAC_M82_1h_vs_0h.bed
+  4143 /Users/user/Desktop/tomato_atac/merge_narrowpeak_copy/bed/intersect/intersect_ATAC_M82_6h_vs_0h.bed
+  4732 /Users/user/Desktop/tomato_atac/merge_narrowpeak_copy/bed/intersect/intersect_ATAC_M82_6h_vs_1h.bed
+ 15071 total

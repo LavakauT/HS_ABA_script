@@ -1,0 +1,13 @@
+   287 C3_E1.bed
+   102 C3_E10.bed
+     7 C3_E11.bed
+     2 C3_E12.bed
+    22 C3_E2.bed
+   153 C3_E3.bed
+   717 C3_E4.bed
+   163 C3_E5.bed
+   346 C3_E6.bed
+   422 C3_E7.bed
+     9 C3_E8.bed
+    19 C3_E9.bed
+  2249 total

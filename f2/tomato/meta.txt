@@ -1,0 +1,7 @@
+cultivar	treatment	replicate	sample
+M82	0h	rep1	s1
+M82	0h	rep2	s2
+M82	1h	rep1	s3
+M82	1h	rep2	s4
+M82	6h	rep1	s5
+M82	6h	rep2	s6

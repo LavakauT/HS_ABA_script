@@ -1,0 +1,114 @@
+GO.ID	Term	Value	Count	Group
+GO:0009733	response to auxin	-12.07628981	45	C1
+GO:0042221	response to chemical	-12.07628981	141	C1
+GO:0010731	protein glutathionylation	-6.999565923	6	C1
+GO:0080143	regulation of amino acid export	-6.296966695	6	C1
+GO:0018105	peptidyl-serine phosphorylation	-6.117646254	14	C1
+GO:0046128	purine ribonucleoside metabolic process	-5.261060969	23	C1
+GO:0018193	peptidyl-amino acid modification	-4.765482716	29	C1
+GO:0072521	purine-containing compound metabolic process	-4.5172693	24	C1
+GO:0006457	protein folding	-15.73754891	42	C2
+GO:0009408	response to heat	-14.15626903	32	C2
+GO:0010035	response to inorganic substance	-8.242603971	56	C2
+GO:0019722	calcium-mediated signaling	-5.964570262	13	C2
+GO:0031222	arabinan catabolic process	-8.915423722	7	C2
+GO:0033365	protein localization to organelle	-5.004628094	23	C2
+GO:0035235	ionotropic glutamate receptor signaling pathway	-15.67840157	14	C2
+GO:0043200	response to amino acid	-13.12314735	14	C2
+GO:0070588	calcium ion transmembrane transport	-7.508918587	13	C2
+GO:0070646	protein modification by small protein removal	-5.033717438	12	C2
+GO:0005975	carbohydrate metabolic process	-14.94157398	135	C3
+GO:0006063	uronic acid metabolic process	-13.06651271	32	C3
+GO:0006869	lipid transport	-9.242603971	34	C3
+GO:0009056	catabolic process	-11.09996076	155	C3
+GO:0009058	biosynthetic process	-8.511449283	395	C3
+GO:0009698	phenylpropanoid metabolic process	-10.24260397	37	C3
+GO:0019752	carboxylic acid metabolic process	-16.85729775	137	C3
+GO:0030243	cellulose metabolic process	-14.20121129	28	C3
+GO:0044281	small molecule metabolic process	-23.24260397	208	C3
+GO:0071704	organic substance metabolic process	-8.814457845	721	C3
+GO:0005975	carbohydrate metabolic process	-25.30953811	45	C4
+GO:0005996	monosaccharide metabolic process	-24.99956592	27	C4
+GO:0006063	uronic acid metabolic process	-27.02077041	27	C4
+GO:0009058	biosynthetic process	-7.020770407	69	C4
+GO:0009812	flavonoid metabolic process	-27.02077041	28	C4
+GO:0044281	small molecule metabolic process	-15.50224128	46	C4
+GO:0052696	flavonoid glucuronidation	-27.02077041	27	C4
+GO:0071704	organic substance metabolic process	-5.902048929	98	C4
+GO:1901576	organic substance biosynthetic process	-5.752517739	64	C4
+GO:0006559	L-phenylalanine catabolic process	-3.020770407	3	C5
+GO:0006629	lipid metabolic process	-1.684869683	13	C5
+GO:0009056	catabolic process	-2.698535927	14	C5
+GO:0009768	"photosynthesis, light harvesting in photosystem I"	-4.038483989	5	C5
+GO:0009800	cinnamic acid biosynthetic process	-3.158265221	3	C5
+GO:0034033	purine nucleoside bisphosphate biosynthetic process	-2.159642941	3	C5
+GO:0044281	small molecule metabolic process	-2.210419288	20	C5
+GO:0044282	small molecule catabolic process	-1.93404702	6	C5
+GO:1901135	carbohydrate derivative metabolic process	-1.694863681	11	C5
+GO:0006597	spermine biosynthetic process	-3.339513984	3	C6
+GO:0010075	regulation of meristem growth	-2.155460698	4	C6
+GO:0010480	microsporocyte differentiation	-2.216310764	2	C6
+GO:0031407	oxylipin metabolic process	-1.722390786	3	C6
+GO:0031408	oxylipin biosynthetic process	-1.755970411	3	C6
+GO:0046499	S-adenosylmethioninamine metabolic process	-3.561299467	3	C6
+GO:0048533	sporocyte differentiation	-1.869023308	2	C6
+GO:0005975	carbohydrate metabolic process	-19.71108039	115	C7
+GO:0005996	monosaccharide metabolic process	-18.99653947	52	C7
+GO:0009056	catabolic process	-27.49784611	245	C7
+GO:0016567	protein ubiquitination	-27.49784611	144	C7
+GO:0044237	cellular metabolic process	-18.72769416	677	C7
+GO:0044238	primary metabolic process	-14.87257122	660	C7
+GO:0044248	cellular catabolic process	-27.49784611	204	C7
+GO:0044281	small molecule metabolic process	-16.52665904	176	C7
+GO:0052696	flavonoid glucuronidation	-14.87257122	32	C7
+GO:0071704	organic substance metabolic process	-14.90938929	692	C7
+GO:0007154	cell communication	-4.64054398	17	C8
+GO:0007165	signal transduction	-5.272540079	17	C8
+GO:0023052	signaling	-5.272540079	17	C8
+GO:0051716	cellular response to stimulus	-3.987162775	18	C8
+GO:0035235	ionotropic glutamate receptor signaling pathway	-24.50224128	14	C9
+GO:0071230	cellular response to amino acid stimulus	-22.48932097	13	C9
+GO:0070588	calcium ion transmembrane transport	-15.24260397	13	C9
+GO:0019722	calcium-mediated signaling	-13.55098468	13	C9
+GO:0007166	cell surface receptor signaling pathway	-8.066512712	14	C9
+GO:0009408	response to heat	-7.798876103	13	C9
+GO:0009628	response to abiotic stimulus	-7.19983301	35	C9
+GO:1901698	response to nitrogen compound	-7.001566281	14	C9
+GO:0006954	inflammatory response	-6.209574083	4	C9
+GO:0006542	glutamine biosynthetic process	-9.832387327	6	C10
+GO:0006754	ATP biosynthetic process	-5.318306608	7	C10
+GO:0009056	catabolic process	-7.509199048	29	C10
+GO:0009399	nitrogen fixation	-5.739928612	4	C10
+GO:0009664	plant-type cell wall organization	-5.052713355	10	C10
+GO:0031221	arabinan metabolic process	-11.88605665	7	C10
+GO:0031222	arabinan catabolic process	-12.6685727	7	C10
+GO:0042744	hydrogen peroxide catabolic process	-8.647817482	11	C10
+GO:0044281	small molecule metabolic process	-5.129888845	34	C10
+GO:0072593	reactive oxygen species metabolic process	-6.658961368	12	C10
+GO:0006468	protein phosphorylation	-5.561299467	21	C11
+GO:0006950	response to stress	-8.350470434	43	C11
+GO:0006952	defense response	-6.999565923	27	C11
+GO:0006979	response to oxidative stress	-2.973875483	11	C11
+GO:0007229	integrin-mediated signaling pathway	-3.684869683	3	C11
+GO:0023052	signaling	-21.12866062	48	C11
+GO:0042744	hydrogen peroxide catabolic process	-4.647431614	7	C11
+GO:0050794	regulation of cellular process	-11.53135733	58	C11
+GO:0051716	cellular response to stimulus	-17.28836146	51	C11
+GO:0006559	L-phenylalanine catabolic process	-4.27067319	3	C13
+GO:0008643	carbohydrate transport	-3.868060705	6	C13
+GO:0009664	plant-type cell wall organization	-4.172049472	6	C13
+GO:0009800	cinnamic acid biosynthetic process	-4.70333481	3	C13
+GO:0042537	benzene-containing compound metabolic process	-3.66274046	4	C13
+GO:0042743	hydrogen peroxide metabolic process	-9.128660619	9	C13
+GO:0044248	cellular catabolic process	-1.692503962	10	C13
+GO:0072593	reactive oxygen species metabolic process	-7.657182685	9	C13
+GO:0006006	glucose metabolic process	-2.155460698	3	C14
+GO:0006104	succinyl-CoA metabolic process	-2.37427609	2	C14
+GO:0006105	succinate metabolic process	-2.167938385	2	C14
+GO:0009051	"pentose-phosphate shunt, oxidative branch"	-3.228339041	3	C14
+GO:0030001	metal ion transport	-2.628562683	6	C14
+GO:0032504	multicellular organism reproduction	-2.155460698	5	C14
+GO:0051156	glucose 6-phosphate metabolic process	-1.987162775	3	C14
+GO:0090377	seed trichome initiation	-4.963770456	4	C14
+GO:0098662	inorganic cation transmembrane transport	-2.628562683	4	C14
+GO:0042853	L-alanine catabolic process	-2.01858916	2	C15

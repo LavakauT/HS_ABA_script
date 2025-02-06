@@ -1,0 +1,15 @@
+GO.ID	Term	Value	Count	Group
+GO:0006091	generation of precursor metabolites and energy	-4.14569395819892	8	au_gene
+GO:0006559	L-phenylalanine catabolic process	-4.14569395819892	3	au_gene
+GO:0009416	response to light stimulus	-3.19429529556614	9	au_gene
+GO:0009768	photosynthesis, light harvesting in photosystem I	-5.79533748825178	5	au_gene
+GO:0009800	cinnamic acid biosynthetic process	-4.35047043405218	3	au_gene
+GO:0015979	photosynthesis	-3.08772478950119	6	au_gene
+GO:0018158	protein oxidation	-2.24260397120698	2	au_gene
+GO:0018193	peptidyl-amino acid modification	-4.14569395819892	8	au_gene
+GO:0018205	peptidyl-lysine modification	-4.05551732784983	6	au_gene
+GO:0090377	seed trichome initiation	-5.46445272082333	4	au_gene
+GO:0009664	plant-type cell wall organization	-3.34563090902471	6	ad_gene
+GO:0042744	hydrogen peroxide catabolic process	-6.05695088899159	7	ad_gene
+GO:0045229	external encapsulating structure organization	-2.02077040697784	8	ad_gene
+GO:0050794	regulation of cellular process	-3.97387548325455	28	ad_gene

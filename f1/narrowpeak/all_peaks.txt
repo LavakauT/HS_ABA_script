@@ -1,0 +1,9 @@
+   27756 Tak1-CK.peaks.narrowPeak
+   30689 Tak1-HS.peaks.narrowPeak
+   48229 dko-CK.peaks.narrowPeak
+   34091 dko-HS.peaks.narrowPeak
+   37032 hsfa-CK.peaks.narrowPeak
+   34599 hsfa-HS.peaks.narrowPeak
+   38444 hsfb-CK.peaks.narrowPeak
+   35623 hsfb-HS.peaks.narrowPeak
+  286463 total

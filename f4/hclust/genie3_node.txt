@@ -1,0 +1,3167 @@
+ID	 a	 b	 d	 T	cluster	TF	description	family
+Mp1g00070			D		C1			
+Mp1g00170		U		U	C2			
+Mp1g00180		U	U	U	C3			
+Mp1g00190		U		U	C3			
+Mp1g00210		D		D	C1			
+Mp1g00270	U		U		C4			
+Mp1g00310	U				C5			
+Mp1g00340		D			C1			
+Mp1g00410		U		U	C2			
+Mp1g00440	D				C1			
+Mp1g00530			D		C6			
+Mp1g00550	D				C7			
+Mp1g00620				D	C6			
+Mp1g00990	U	U			C5			
+Mp1g01040	D	U			C8			
+Mp1g01110	D				C1	MpBHLH33	transcription factor, bHLH	bHLH
+Mp1g01270	U				C5			
+Mp1g01370			D		C6			
+Mp1g01440			U		C4			
+Mp1g01450	D				C1			
+Mp1g01540		D			C5			
+Mp1g01810	U				C7			
+Mp1g01840	D		D		C8			
+Mp1g01860		U			C3			
+Mp1g01880	U		U		C5			
+Mp1g01950				U	C4			
+Mp1g02010	D				C1			
+Mp1g02020		U		U	C2			
+Mp1g02040	D				C2			
+Mp1g02070	D				C8			
+Mp1g02090		U		U	C2			
+Mp1g02150	D				C6			
+Mp1g02200		D			C5			
+Mp1g02210				U	C3			
+Mp1g02260	U	U	U		C7			
+Mp1g02360		U		U	C2			
+Mp1g02570	U				C5			
+Mp1g02660		D	D		C6			
+Mp1g02790	D	D		D	C1			
+Mp1g02880	D				C7			
+Mp1g02885	D		D	D	C1			
+Mp1g02900	U				C5			
+Mp1g02920		U			C8			
+Mp1g02930		D			C5			
+Mp1g02960		U		U	C2			
+Mp1g02980		D		D	C6			
+Mp1g03020	U	U		U	C3			
+Mp1g03040				U	C4	MpTRIHELIX25	transcription factor, Trihelix	Trihelix
+Mp1g03100				U	C2	MpTRIHELIX26	transcription factor, Trihelix	Trihelix
+Mp1g03140	U	U	U		C4			
+Mp1g03150	U	U	U		C5			
+Mp1g03210		U		U	C2			
+Mp1g03240		D			C5			
+Mp1g03310	D	D	D	D	C1			
+Mp1g03450			U		C4			
+Mp1g03640		U		U	C2			
+Mp1g03670		D			C1			
+Mp1g03750	D	D			C7			
+Mp1g03760	D				C7			
+Mp1g03780		U	U		C4			
+Mp1g03840	U	U	U		C3			
+Mp1g03950	D		D	D	C6	MpGATA2	transcription factor, GATA	GATA
+Mp1g03980	U	U	U		C3			
+Mp1g04150		U			C7			
+Mp1g04160	U				C5			
+Mp1g04220			D		C6			
+Mp1g04530		D			C6			
+Mp1g04650		U			C5			
+Mp1g04670			U		C4			
+Mp1g04710	D	D	D		C1			
+Mp1g04750	D	D			C7			
+Mp1g04760		U		U	C2			
+Mp1g04770		U	U	U	C4			
+Mp1g04830		D			C6			
+Mp1g04910	U		U		C4			
+Mp1g04940		D			C4			
+Mp1g05090			D		C6			
+Mp1g05150	U	U	U		C4			
+Mp1g05180				D	C1			
+Mp1g05190			D		C6			
+Mp1g05220	D				C1			
+Mp1g05260			U		C4			
+Mp1g05310	D				C1	MpGATA1	transcription factor, GATA	GATA
+Mp1g05410	U	U			C3			
+Mp1g05920		U		U	C3			
+Mp1g05990				D	C6			
+Mp1g06050	U	U			C3			
+Mp1g06140	U	U	U	U	C2			
+Mp1g06180		D		D	C1	MpTRIHELIX18	transcription factor, Trihelix	Trihelix
+Mp1g06240	U				C3			
+Mp1g06280		U			C2			
+Mp1g06340		D			C1			
+Mp1g06380	D	D	D		C6			
+Mp1g06440		D	U		C7			
+Mp1g06470		U		U	C2			
+Mp1g06600			D	D	C6			
+Mp1g06770	U				C5			
+Mp1g06780	U	U			C5			
+Mp1g06880		U			C2			
+Mp1g06910			U		C4			
+Mp1g06930			U		C4			
+Mp1g06980		U	U		C7			
+Mp1g07070	D	D	D	D	C1			
+Mp1g07220		D			C1			
+Mp1g07250			U	U	C4			
+Mp1g07390	U	U	U	U	C4			
+Mp1g07460	D				C1			
+Mp1g07470	D	U		D	C6			
+Mp1g07510		U	U	U	C7			
+Mp1g07590	U	U	U	U	C2			
+Mp1g07620		U	D		C7			
+Mp1g07630			U		C7			
+Mp1g07730	U	U		U	C3			
+Mp1g07760			D		C2			
+Mp1g07850	U				C5			
+Mp1g07890	D	U			C2			
+Mp1g07900		U			C8			
+Mp1g08000		D			C1			
+Mp1g08090			U		C4			
+Mp1g08130	U	U	U		C7			
+Mp1g08250		D			C5			
+Mp1g08290			U		C4			
+Mp1g08390	U				C6			
+Mp1g08490	D				C7			
+Mp1g08560		U			C3			
+Mp1g08755		D		D	C1			
+Mp1g08890		U		U	C2	MpWRKY5	transcription factor, WRKY	WRKY
+Mp1g08980		U		U	C2			
+Mp1g09100		U			C2			
+Mp1g09120	D	U	D	U	C2			
+Mp1g09180		U		U	C3			
+Mp1g09190	D	U	D	U	C3			
+Mp1g09200	D	U		U	C2			
+Mp1g09210	D	D	D	D	C6			
+Mp1g09290	D	D	D	D	C6			
+Mp1g09300	U	U			C5			
+Mp1g09320		D			C1			
+Mp1g09370	D	D	D	D	C6			
+Mp1g09400	D	D	D	D	C6			
+Mp1g09410		D	D		C6			
+Mp1g09420		D	D	D	C1	MpR2R3-MYB17	transcription factor, MYB	MYB
+Mp1g09500		D	D	D	C1	MpIDDL6	transcription factor, IDD-related	IDD-related
+Mp1g09755	D	D	D	D	C1			
+Mp1g09800		U			C8			
+Mp1g09820		U		U	C2			
+Mp1g09860	U				C5			
+Mp1g10020	D	D	D	D	C1			
+Mp1g10030		D		D	C1	MpSPL2	SQUAMOSA PROMOTER BINDING-LIKE, transcription factor	SPL
+Mp1g10150		D	D	D	C6			
+Mp1g10170		D	D	D	C6			
+Mp1g10180	U				C4			
+Mp1g10250	D	D		D	C1			
+Mp1g10260				D	C6			
+Mp1g10320	D				C2			
+Mp1g10420	U	U	U	U	C3			
+Mp1g10590	U				C6			
+Mp1g10610			U	U	C4			
+Mp1g10620			U		C4			
+Mp1g10640	U	U			C5			
+Mp1g10690		U		U	C2			
+Mp1g10840				U	C2			
+Mp1g10940			U		C7			
+Mp1g10960		D			C6			
+Mp1g10970			D	D	C6			
+Mp1g11070		D			C6			
+Mp1g11110		U		U	C2			
+Mp1g11420		U			C3			
+Mp1g11430				D	C6			
+Mp1g11660	U	U	U	U	C4	MpHD6	transcription factor, HD	HD
+Mp1g11700		U	U	U	C2			
+Mp1g11770	D		U		C7			
+Mp1g11940				D	C6			
+Mp1g12190		D		D	C1			
+Mp1g12290		D			C1			
+Mp1g12310		U		U	C2			
+Mp1g12420	D		U		C7			
+Mp1g12470		D			C1			
+Mp1g12510			U		C4			
+Mp1g12530	D	U		U	C2			
+Mp1g12540		U		U	C2			
+Mp1g12670	D	D	D	D	C6			
+Mp1g12800			U		C5			
+Mp1g12860		U		U	C2			
+Mp1g12880	U				C5			
+Mp1g13010	U	U	U	U	C3	MpDUO1	R2R3-myb transcription factor, ortholog of Arabidopsis thaliana DUO1	R2R3-MYB
+Mp1g13090	D	D	D		C6			
+Mp1g13110		U			C7			
+Mp1g13140		D			C1			
+Mp1g13160		D			C1			
+Mp1g13190		U		U	C2			
+Mp1g13200	U				C5			
+Mp1g13250	U	U		U	C3			
+Mp1g13260		D	D	D	C6	MpBZR2	transcription factor, BZR/BES	BZR/BES
+Mp1g13290	U		U		C4			
+Mp1g13390	U	U	U	U	C4			
+Mp1g13440			U	U	C4			
+Mp1g13540		D			C1			
+Mp1g13560		U		U	C2			
+Mp1g13590	U	U			C3			
+Mp1g13700		D			C1			
+Mp1g13940		D	D		C6			
+Mp1g14270		D			C6			
+Mp1g14470	U	U	U	U	C4			
+Mp1g14600			D		C6			
+Mp1g14610	D	D		D	C1			
+Mp1g14640			U		C4			
+Mp1g14720		D			C1			
+Mp1g14840		D	D		C6			
+Mp1g14970			U		C4			
+Mp1g15090			U		C4			
+Mp1g15150	D				C1			
+Mp1g15240		U			C2			
+Mp1g15430	U				C5			
+Mp1g15480			D	D	C6			
+Mp1g15580			D	D	C6			
+Mp1g15590			U	U	C4			
+Mp1g15660	D	D	D	D	C6	MpIDDL2	transcription factor, IDD-related	IDD-related
+Mp1g15700			U		C4			
+Mp1g15860		U	D		C2			
+Mp1g15880	U	U	U	U	C3			
+Mp1g15890		U	U	U	C3			
+Mp1g15980	U				C6			
+Mp1g15990			D		C6			
+Mp1g16110			U		C4			
+Mp1g16160			U		C4			
+Mp1g16210			D		C2			
+Mp1g16260	U				C3			
+Mp1g16280		U		U	C2			
+Mp1g16320	U				C5			
+Mp1g16340	D	D	D	D	C6			
+Mp1g16390			D	D	C6			
+Mp1g16450	U	U		U	C2			
+Mp1g16520	U	U	D	U	C2			
+Mp1g16530	U	U		U	C2			
+Mp1g16590		U		U	C3			
+Mp1g16700				D	C6			
+Mp1g16820	D				C2			
+Mp1g17070	U	D			C5			
+Mp1g17090	D	D		D	C1			
+Mp1g17150	U				C5			
+Mp1g17210	D	D	D	D	C1	MpR2R3-MYB1	transcription factor, MYB	MYB
+Mp1g17415	U			D	C5			
+Mp1g17450	U				C5			
+Mp1g17490		U			C2			
+Mp1g17560		U		U	C8			
+Mp1g17600	D				C6			
+Mp1g17610	D		U		C7			
+Mp1g17660	U				C5			
+Mp1g17670	D		U		C7			
+Mp1g17820	U	U		U	C2			
+Mp1g17840			U		C7			
+Mp1g17860			U		C4			
+Mp1g17910	D				C7			
+Mp1g17960		U	U		C8			
+Mp1g18140	D	D		D	C1			
+Mp1g18170		D			C6			
+Mp1g18300	U	U	U		C3			
+Mp1g18440	U				C5			
+Mp1g18540	U		U		C4	MpCDF	transcription factor, Dof	Dof
+Mp1g18650	U	U	U	U	C2			
+Mp1g18740	U	U	U	U	C4			
+Mp1g18780		D	D	D	C6			
+Mp1g18800		U		U	C2			
+Mp1g18890			D		C6			
+Mp1g18910			U	U	C4			
+Mp1g19030			U		C4			
+Mp1g19050		D			C1			
+Mp1g19100	D				C2			
+Mp1g19310	U				C5			
+Mp1g19380	D				C6			
+Mp1g19400	D	D			C1			
+Mp1g19410	U				C5			
+Mp1g19500		D	D	D	C2			
+Mp1g19590				D	C6	MpTCP2	bHLH transcription factor	bHLH
+Mp1g19650		U		U	C2			
+Mp1g19680		D			C1			
+Mp1g19730			U		C4	MpTRIHELIX2	transcription factor, Trihelix	Trihelix
+Mp1g19750		D			C1			
+Mp1g19760		D			C6			
+Mp1g20010	D			D	C7			
+Mp1g20040	D		D	D	C6			
+Mp1g20050		U			C8			
+Mp1g20090		D		D	C1			
+Mp1g20130	D			D	C6			
+Mp1g20160	U				C4			
+Mp1g20250	U	U			C5			
+Mp1g20280			U	U	C4			
+Mp1g20330				D	C6			
+Mp1g20360		D			C1			
+Mp1g20450			U	U	C2			
+Mp1g20490	U		U	U	C5	MpGRAS1	transcription factor, GRAS	GRAS
+Mp1g20520			U		C4			
+Mp1g20610		U		U	C2			
+Mp1g20650	D				C8			
+Mp1g20740		U			C2			
+Mp1g20750		U			C3			
+Mp1g20770		U	U	U	C2			
+Mp1g20810	D	D	D	D	C6			
+Mp1g20830	D	D			C7			
+Mp1g20870		D	D	D	C1			
+Mp1g20880	U				C4			
+Mp1g20960		D		D	C6			
+Mp1g21110			D		C6			
+Mp1g21115		D	D	D	C6			
+Mp1g21250			U		C4			
+Mp1g21270		D	D	D	C6			
+Mp1g21440	U				C5			
+Mp1g21600			D		C6			
+Mp1g21630	U			U	C3			
+Mp1g21640		U		U	C2			
+Mp1g21660		D	D		C2			
+Mp1g21700	D	D		D	C1			
+Mp1g21730	U				C5			
+Mp1g21770		U	U	U	C4			
+Mp1g21800		D			C1			
+Mp1g21830			U		C4			
+Mp1g21860		D			C1			
+Mp1g21870		D			C1			
+Mp1g21930	U	D			C5			
+Mp1g21950			U		C4			
+Mp1g21980			U		C7			
+Mp1g22130		U	U		C8			
+Mp1g22200			D		C6			
+Mp1g22310		D	D	D	C1			
+Mp1g22360		U			C8			
+Mp1g22370		U			C6			
+Mp1g22410			D		C6			
+Mp1g22460			D		C6			
+Mp1g22530	U	U		U	C4			
+Mp1g22540	U	U			C3			
+Mp1g22550	U			U	C4			
+Mp1g22600		D	D	D	C1			
+Mp1g22700				D	C6			
+Mp1g22880		D			C1	MpGRAS8	transcription factor, GRAS	GRAS
+Mp1g22940		U	U		C3			
+Mp1g23060		U			C3			
+Mp1g23070				D	C6			
+Mp1g23160	D	D	D	D	C6			
+Mp1g23190			D	D	C1			
+Mp1g23210	D	D	D	D	C6			
+Mp1g23220	D				C8			
+Mp1g23260		D			C1			
+Mp1g23340		D			C6			
+Mp1g23430		U			C7			
+Mp1g23640	U		D		C5			
+Mp1g23650	D	D	D	D	C6			
+Mp1g23730	U				C5			
+Mp1g23740	U	U	U	U	C4			
+Mp1g23760	U				C4			
+Mp1g23770			D		C8			
+Mp1g23790		U			C4			
+Mp1g24040			U		C4			
+Mp1g24060			U		C4			
+Mp1g24070		U		U	C2			
+Mp1g24140		D		D	C1	MpHD12	transcription factor, HD	HD
+Mp1g24190		D			C1			
+Mp1g24220		D	D	D	C6			
+Mp1g24230		D	D	D	C6			
+Mp1g24320	U		U		C4			
+Mp1g24370		U		U	C2			
+Mp1g24430		D			C1			
+Mp1g24470			U	U	C3			
+Mp1g24480	U	U	U	U	C3			
+Mp1g24650		U		U	C2			
+Mp1g24740	D				C1			
+Mp1g24820	U				C5			
+Mp1g24830			U		C7			
+Mp1g24850	U				C5			
+Mp1g24970		U			C3			
+Mp1g25000		D			C1			
+Mp1g25060	U				C4			
+Mp1g25080	D	D	D	D	C1			
+Mp1g25130			U		C7			
+Mp1g25240	D				C1			
+Mp1g25410		D	D	D	C6			
+Mp1g25420		D			C1			
+Mp1g25480	D		D		C1			
+Mp1g25540	U	U	U		C4			
+Mp1g25550			U		C4			
+Mp1g25610	U				C5			
+Mp1g25620	U				C5			
+Mp1g25680		U		U	C2			
+Mp1g25730	D	D			C1			
+Mp1g25840		D			C6			
+Mp1g25850		D		D	C1			
+Mp1g25860	D	D			C1			
+Mp1g25870	U	U	U	U	C4			
+Mp1g25890	U	D	U		C5			
+Mp1g25940			U		C3			
+Mp1g25980			U		C7			
+Mp1g26000	U		U		C5			
+Mp1g26030	U	U	U	U	C4			
+Mp1g26160			U		C4			
+Mp1g26230			U		C7			
+Mp1g26240	U	U	U		C4			
+Mp1g26280			D		C2			
+Mp1g26300		U			C2			
+Mp1g26440	U	U		U	C3			
+Mp1g26490		D			C1			
+Mp1g26540	U		D	D	C6			
+Mp1g26600		U		U	C2			
+Mp1g26610	U	U		U	C2			
+Mp1g26670		D	D	D	C6			
+Mp1g26820			D		C6			
+Mp1g26850	U			U	C4			
+Mp1g26910		D			C1			
+Mp1g26920		D		D	C7			
+Mp1g27040		U	D		C2			
+Mp1g27050	D		D		C6			
+Mp1g27080		D			C1			
+Mp1g27090			D		C6			
+Mp1g27110		U			C4			
+Mp1g27140			D		C6			
+Mp1g27220			D	D	C6			
+Mp1g27310	U	U	U		C4			
+Mp1g27550		D			C1			
+Mp1g27560	U				C5			
+Mp1g27630	U		U		C5			
+Mp1g27640		U			C8			
+Mp1g27720	U				C4			
+Mp1g27780	D	U	D	U	C2			
+Mp1g27860		U		U	C2			
+Mp1g27870	U				C5			
+Mp1g27920	D	D		D	C7			
+Mp1g27930			U		C4			
+Mp1g27940	D	D		D	C1			
+Mp1g27950	D				C1			
+Mp1g27960	D	D	D	D	C1			
+Mp1g27990	D	D		D	C1			
+Mp1g28000		D	U		C4			
+Mp1g28010			U		C4			
+Mp1g28040	U				C5			
+Mp1g28160			U		C4			
+Mp1g28170	U		U		C4			
+Mp1g28180	U				C7			
+Mp1g28240	U				C5			
+Mp1g28300	U				C5			
+Mp1g28310	U				C5			
+Mp1g28320			U		C4			
+Mp1g28330		U			C2			
+Mp1g28360	D	D	D	D	C1			
+Mp1g28390	U				C5			
+Mp1g28400	U				C5			
+Mp1g28420	U				C5			
+Mp1g28450	D	D	D	D	C6			
+Mp1g28510		D	D		C6			
+Mp1g28530		U		U	C2			
+Mp1g28570	U	U	U		C4			
+Mp1g28580	U		D		C5			
+Mp1g28660		D			C1			
+Mp1g28720		U		U	C2			
+Mp1g28780	D	D	U	D	C7			
+Mp1g28920		U	D		C6			
+Mp1g28940	U		D		C5			
+Mp1g28990			U		C4			
+Mp1g29010			U		C4			
+Mp1g29260		U			C2			
+Mp1g29350			U		C7			
+Mp1g29480	D	D			C1			
+Mp2g00040	D	U		U	C2			
+Mp2g00230	U		U	U	C4			
+Mp2g00260	U		U	U	C4			
+Mp2g00330	U				C5			
+Mp2g00510		D			C1	MpBHLH48	transcription factor, bHLH	bHLH
+Mp2g00650				D	C6			
+Mp2g00660	U				C5			
+Mp2g00690	U	U	U		C5			
+Mp2g00810				U	C2			
+Mp2g00840		D			C8			
+Mp2g00860	U	U			C8			
+Mp2g00890	D	D	D	D	C6	MpBHLH2	transcription factor, bHLH	bHLH
+Mp2g00910	U				C5	MpBHLH3	transcription factor, bHLH	bHLH
+Mp2g00930	D	D	D	D	C1	MpBHLH4	transcription factor, bHLH	bHLH
+Mp2g00990			U		C4			
+Mp2g01240		U			C2			
+Mp2g01310	U				C5			
+Mp2g01340	D	D	D	D	C6			
+Mp2g01350		U			C8			
+Mp2g01360			D		C6			
+Mp2g01380	U	U	U	U	C4			
+Mp2g01420	D			D	C7			
+Mp2g01560	D	D		D	C1			
+Mp2g01660	U				C5			
+Mp2g01690	U				C5			
+Mp2g01700	D		D		C1			
+Mp2g01710	D				C7			
+Mp2g01720	D				C1			
+Mp2g01740	D	D	D		C1			
+Mp2g01750	D		D	D	C6			
+Mp2g01800	D	D	D	D	C1			
+Mp2g01820	U		D		C6			
+Mp2g01830		U		U	C2			
+Mp2g01850		U	U		C8			
+Mp2g01860		U		U	C2			
+Mp2g01870		U		U	C2			
+Mp2g01900		U			C3			
+Mp2g01990			U		C4			
+Mp2g02020	U	U	U	U	C4			
+Mp2g02090		U			C7			
+Mp2g02120	D	D		D	C1			
+Mp2g02170		U		U	C3			
+Mp2g02190				D	C1			
+Mp2g02210	D			D	C1			
+Mp2g02230		U		U	C2	MpBZIP14	transcription factor, bZIP	bZIP
+Mp2g02265a	U		U	U	C4			
+Mp2g02280			U		C4	MpTRIHELIX30	transcription factor, Trihelix	Trihelix
+Mp2g02290			U	U	C4			
+Mp2g02340	D			D	C1			
+Mp2g02350		D	D		C6			
+Mp2g02510	D		D		C8			
+Mp2g02520	D			D	C7			
+Mp2g02590	U				C3			
+Mp2g02640		U		U	C2			
+Mp2g02650		U	U	U	C2			
+Mp2g02750	D	D		D	C1			
+Mp2g02770		U	U		C4			
+Mp2g02780		U		U	C2			
+Mp2g02820		D			C1			
+Mp2g02870		U		U	C2			
+Mp2g02920		D			C1			
+Mp2g03100		D			C1			
+Mp2g03110	D	D	D	D	C6			
+Mp2g03240		U			C8			
+Mp2g03250	U				C5			
+Mp2g03470	U	D	D		C5			
+Mp2g03710	U	U			C4			
+Mp2g03800		D	D	D	C1			
+Mp2g03850	D	D		D	C1	MpGRAS4	transcription factor, GRAS	GRAS
+Mp2g03870	D	D		D	C1			
+Mp2g03960				U	C2			
+Mp2g04040		U		U	C2			
+Mp2g04050			U	U	C2			
+Mp2g04130		U	U		C4			
+Mp2g04150	D	D			C1			
+Mp2g04400		U	U		C8			
+Mp2g04410	U	U		U	C2			
+Mp2g04460	U				C5			
+Mp2g04480		U			C8			
+Mp2g04630		D	D		C2			
+Mp2g04740			D	D	C6			
+Mp2g04800		U	U	U	C4			
+Mp2g04890	U	U		U	C3			
+Mp2g04900	U	U		U	C3			
+Mp2g04920			U		C7			
+Mp2g04950		D			C5			
+Mp2g05030		D			C1			
+Mp2g05040			U		C5			
+Mp2g05050		D	D		C1			
+Mp2g05080			U		C4			
+Mp2g05250	D				C1			
+Mp2g05380				D	C6			
+Mp2g05510		U		U	C2			
+Mp2g05630	U	D			C5			
+Mp2g05680		D			C1			
+Mp2g05760	U	U		U	C4			
+Mp2g05780	D	D	D	D	C1			
+Mp2g05790	D	D	D	D	C1			
+Mp2g05800		D	D	D	C1			
+Mp2g05810	U	D	D		C1			
+Mp2g05880			D		C6			
+Mp2g05910	U		U		C7			
+Mp2g05950	U	U			C4			
+Mp2g05990				U	C4			
+Mp2g06030	U	U	U	U	C4			
+Mp2g06080	U	D		D	C1			
+Mp2g06090	D	D	D	D	C1			
+Mp2g06140		U			C2			
+Mp2g06360	D	D			C1			
+Mp2g06610		D	D		C2			
+Mp2g06620	D	D			C1			
+Mp2g06670			U		C4			
+Mp2g06680	D	U		D	C6			
+Mp2g06760			U		C4			
+Mp2g06770	U	U	U	U	C3			
+Mp2g06780	D				C7			
+Mp2g06790	D	D			C1			
+Mp2g06810			D		C6			
+Mp2g06930	U	U			C8			
+Mp2g07000				U	C2			
+Mp2g07060	D		D	D	C6			
+Mp2g07130		D	D		C2	MpBHLH30	transcription factor, bHLH	bHLH
+Mp2g07150		D			C5	MpBHLH29	transcription factor, bHLH	bHLH
+Mp2g07170			U		C4	MpBZIP4	transcription factor, bZIP	bZIP
+Mp2g07210			U		C4			
+Mp2g07500		U	U		C7			
+Mp2g07510		U	U		C7			
+Mp2g07700		D			C1			
+Mp2g07710	U	U	U	U	C4			
+Mp2g07720			U	U	C4	MpNAC1	transcription factor, NAC	NAC
+Mp2g07820	D	U		U	C2			
+Mp2g07840		U			C8			
+Mp2g07900	U	U			C3			
+Mp2g07990			D		C1			
+Mp2g08000	D				C1			
+Mp2g08060	U				C5			
+Mp2g08140			U		C4			
+Mp2g08260			D		C2	MpB3-8	transcription factor, B3	B3
+Mp2g08290			U		C7			
+Mp2g08350	U	U	D	U	C2			
+Mp2g08510	D				C1			
+Mp2g08520	D				C2			
+Mp2g08540			U		C4			
+Mp2g08550	U	U	U		C8			
+Mp2g08570	U	U			C8			
+Mp2g08650			U		C4			
+Mp2g08660	D				C6			
+Mp2g08760		U			C8			
+Mp2g08820			D		C2			
+Mp2g09140			D		C6			
+Mp2g09200	D				C7			
+Mp2g09220			U		C3			
+Mp2g09360				U	C2			
+Mp2g09380	U	U			C8			
+Mp2g09490	U				C2			
+Mp2g09510	D				C1			
+Mp2g09560	D	D	U		C7			
+Mp2g09790			D		C6			
+Mp2g09820		U			C7			
+Mp2g09910		U		U	C4			
+Mp2g09970	U		U	U	C4			
+Mp2g10010	U	U	U	U	C5			
+Mp2g10020		U			C8			
+Mp2g10040		U	U	U	C3			
+Mp2g10050	U	U		U	C3			
+Mp2g10070	U	U	U	U	C5			
+Mp2g10090	D		U		C7			
+Mp2g10120	D	D	U		C4			
+Mp2g10220		U	U	U	C2			
+Mp2g10240	U	U	U	U	C4			
+Mp2g10260				U	C2			
+Mp2g10270		U		U	C2			
+Mp2g10330	U	U		D	C8			
+Mp2g10380			D		C6			
+Mp2g10410		U			C8			
+Mp2g10510			U		C4			
+Mp2g10535			D		C2			
+Mp2g10590	D	D			C1			
+Mp2g10650	U	U			C3			
+Mp2g10700	U			U	C2			
+Mp2g10710		D			C6			
+Mp2g10720			U	U	C4			
+Mp2g10850	U	U	U	U	C4			
+Mp2g10860	U	U	U	U	C4			
+Mp2g10870	U	U	U	U	C4			
+Mp2g10900			D		C2			
+Mp2g11080		D		D	C1	MpERF4	transcription factor, AP2/ERF	AP2/ERF
+Mp2g11120		U		U	C2			
+Mp2g11170				D	C6			
+Mp2g11200	U		U		C5			
+Mp2g11300	U				C4			
+Mp2g11530		D			C5			
+Mp2g11560		U	U	U	C4			
+Mp2g11660	U	U	U	U	C4			
+Mp2g11810		D			C1			
+Mp2g11820		D	D	D	C1			
+Mp2g11830		U	U		C8			
+Mp2g11960			U		C7			
+Mp2g12200	D				C8			
+Mp2g12220		U	U		C7			
+Mp2g12240	D	D	D	D	C6			
+Mp2g12290			U		C4			
+Mp2g12430				D	C6			
+Mp2g12520	D				C1			
+Mp2g12650		D	D	D	C6			
+Mp2g12690				U	C2			
+Mp2g12890	U				C4			
+Mp2g12900		U			C3			
+Mp2g12940			U		C7			
+Mp2g12980			D	D	C6			
+Mp2g13080	D	D			C1			
+Mp2g13090		D			C1			
+Mp2g13170	D				C2			
+Mp2g13400				U	C2			
+Mp2g13430	U				C5			
+Mp2g13440		U			C3			
+Mp2g13620	U	U	U	U	C3			
+Mp2g13670	U	U		U	C3			
+Mp2g13740	D	U			C8			
+Mp2g13850	D	D			C1			
+Mp2g13870			U		C7			
+Mp2g13880		U			C3			
+Mp2g13960	D	D			C1			
+Mp2g14010	D				C1			
+Mp2g14180		D			C1			
+Mp2g14590	U		D		C6			
+Mp2g14650		U		U	C2			
+Mp2g14660			D	D	C6			
+Mp2g14670		U	U	U	C4			
+Mp2g14680			U		C2			
+Mp2g14700		U			C3			
+Mp2g14720	U	U			C5			
+Mp2g14830		U		U	C2			
+Mp2g14870		D	D	D	C1			
+Mp2g15090	D	D		D	C1			
+Mp2g15200			D		C6			
+Mp2g15260	U				C4			
+Mp2g15290	D	D		D	C1			
+Mp2g15440	U		D		C6			
+Mp2g15510	D		D	D	C6			
+Mp2g15530		U		U	C2			
+Mp2g15620			U		C4			
+Mp2g15690			U		C7			
+Mp2g15700			U	D	C7			
+Mp2g15720			U		C4			
+Mp2g16130	U		U		C7			
+Mp2g16180	U				C5			
+Mp2g16190	U				C5			
+Mp2g16290			U		C4			
+Mp2g16350	U	U	U	U	C2	MpBBX6	transcription factor, BBX	BBX
+Mp2g16410	D	U		U	C2			
+Mp2g16500	D				C1			
+Mp2g16540	D	U		U	C2			
+Mp2g16630			D		C6			
+Mp2g16690			D		C1			
+Mp2g16700			D		C6			
+Mp2g16720	D				C1			
+Mp2g16820		U		U	C2			
+Mp2g16870	D				C2			
+Mp2g16920		D	D		C6			
+Mp2g16980		U		U	C3			
+Mp2g17030		D			C6			
+Mp2g17090	U				C5			
+Mp2g17110				D	C6			
+Mp2g17120				D	C6			
+Mp2g17410	U	U	U	U	C2			
+Mp2g17420	U	U	U	U	C2			
+Mp2g17430		U		U	C3			
+Mp2g17500		U			C7			
+Mp2g17510		U		U	C2			
+Mp2g17570			U		C5			
+Mp2g17680	U	U			C3			
+Mp2g17800	D		D		C2			
+Mp2g17820	D		D	D	C6			
+Mp2g17870		D			C6			
+Mp2g17910	D	D			C1			
+Mp2g17960		D			C1			
+Mp2g18060			D		C1			
+Mp2g18080		U			C7			
+Mp2g18140		D			C6			
+Mp2g18200	D	D	U		C1			
+Mp2g18250	D	D	D	D	C6			
+Mp2g18470	U	U		U	C3			
+Mp2g18480		U			C8			
+Mp2g18570			D		C5			
+Mp2g18580	D	D	D	D	C1			
+Mp2g18620	U		D		C6			
+Mp2g18650	U				C5			
+Mp2g18670		D			C1			
+Mp2g18710	U				C4			
+Mp2g18730			D		C6			
+Mp2g18740				U	C4			
+Mp2g18760		U	U		C7			
+Mp2g18800	U	U			C3			
+Mp2g18880		D			C5			
+Mp2g18950	U				C5			
+Mp2g19160	U		D		C5			
+Mp2g19270			D		C6			
+Mp2g19300		U		U	C2			
+Mp2g19350	D				C6			
+Mp2g19390	D	D			C1			
+Mp2g19400	D	D	D		C6			
+Mp2g19460		U	U	U	C3			
+Mp2g19550		D	D	D	C6			
+Mp2g19650	D				C6			
+Mp2g19730	U				C5			
+Mp2g19760		U		U	C2			
+Mp2g19860	D		D	D	C6			
+Mp2g20040			U	U	C4			
+Mp2g20050		U			C3			
+Mp2g20260			D		C6			
+Mp2g20340	D	D		D	C1			
+Mp2g20430			U	U	C4			
+Mp2g20470	D				C7			
+Mp2g20630		D	D	D	C6			
+Mp2g20640		D	D		C1			
+Mp2g20650	D	D			C1			
+Mp2g20850			U		C3			
+Mp2g20870	U				C5			
+Mp2g21000		D			C1			
+Mp2g21040	D			D	C1			
+Mp2g21130	U	U	U	U	C3			
+Mp2g21140		U		U	C2			
+Mp2g21170	D				C1			
+Mp2g21290	U				C4			
+Mp2g21300	U	U		U	C3			
+Mp2g21420	D	D	D		C1			
+Mp2g21430		D		D	C6			
+Mp2g21470			D		C2			
+Mp2g21490	D			D	C6			
+Mp2g21500	D				C2			
+Mp2g21520	D				C8			
+Mp2g21600	D	U			C2			
+Mp2g21620	U	U		U	C3			
+Mp2g21700		U		U	C3			
+Mp2g21710	D				C7			
+Mp2g21770			D		C6			
+Mp2g21800		U		U	C2			
+Mp2g21870	U				C4			
+Mp2g21880	U				C4			
+Mp2g21920		U			C8			
+Mp2g21950		U		U	C2			
+Mp2g22010		D			C1			
+Mp2g22050		D			C1			
+Mp2g22120		U		U	C3			
+Mp2g22150		D	D		C6			
+Mp2g22250		D		D	C1	MpAP2B3-1	transcription factor, AP2-B3	AP2-B3
+Mp2g22350	D				C7			
+Mp2g22390	U				C5			
+Mp2g22490			D	D	C6			
+Mp2g22600		D			C1			
+Mp2g22680			U	U	C4			
+Mp2g22690		U		U	C2			
+Mp2g22740	U	U	U		C3			
+Mp2g22750	U	U			C4			
+Mp2g22760		U	U	U	C4			
+Mp2g22790	U		U	U	C4			
+Mp2g22820	U				C5	MpABI5B	bZIP transcription factor	bZIP
+Mp2g22890			U		C4			
+Mp2g22900		U			C8			
+Mp2g22920		U			C3			
+Mp2g23050	U			D	C6			
+Mp2g23310	D	D		D	C1			
+Mp2g23350	D	D			C1			
+Mp2g23490		U			C3			
+Mp2g23620	D				C1			
+Mp2g23640	D	D			C1			
+Mp2g23680			U		C4			
+Mp2g23740	U		D		C6			
+Mp2g23750	D	D	D	D	C6			
+Mp2g23755		U	D	U	C2			
+Mp2g23775	D		D	D	C6			
+Mp2g23900			U		C4			
+Mp2g23940	D	D		D	C1			
+Mp2g24070			U		C7			
+Mp2g24110	D				C1	MpC2H2-10	transcription factor, C2H2-ZnF	C2H2-ZnF
+Mp2g24200	U	D		D	C1	MpHD14	transcription factor, HD	HD
+Mp2g24260	U	U		U	C5			
+Mp2g24440			D	D	C6			
+Mp2g24490			U		C7			
+Mp2g24580	D	D			C1			
+Mp2g24760	D				C6			
+Mp2g24780	D		D	D	C6			
+Mp2g24790	D		D	D	C6			
+Mp2g24800	D			D	C6			
+Mp2g24810	D	D	D	D	C6			
+Mp2g24840			U		C4			
+Mp2g24920	D				C1			
+Mp2g24940	U				C4			
+Mp2g24950		U		U	C2			
+Mp2g25050			U		C4			
+Mp2g25060	D	D		D	C1			
+Mp2g25080	D				C1			
+Mp2g25120	D		U		C4			
+Mp2g25170	D				C1			
+Mp2g25180			U		C7			
+Mp2g25250	U	U			C5			
+Mp2g25290		U			C3	MpGEBP4	transcription factor, GeBP	GeBP
+Mp2g25340		D			C1			
+Mp2g25350			D		C6			
+Mp2g25390				D	C6			
+Mp2g25400		D		D	C1			
+Mp2g25540	U				C5			
+Mp2g25620	U		U		C5			
+Mp2g25630	U	U	U		C4			
+Mp2g25640			U		C4			
+Mp2g25660	U				C5	MpTRIHELIX12	transcription factor, Trihelix	Trihelix
+Mp2g25910	D	D		D	C1			
+Mp2g25930		U		U	C2			
+Mp2g25940	D	D		D	C1			
+Mp2g26010	D	U			C8			
+Mp2g26170	D	D		D	C1			
+Mp2g26210		U		U	C2			
+Mp2g26270	U	U			C5			
+Mp2g26340	D	D			C1			
+Mp2g26345	U	U			C4			
+Mp2g26370		U		U	C2			
+Mp2g26500		D		D	C6			
+Mp2g26620		D	D	D	C1			
+Mp2g26740			U		C5			
+Mp3g00090	U				C4			
+Mp3g00110	U	U	U	U	C4			
+Mp3g00130		D			C1			
+Mp3g00230	U	D			C5			
+Mp3g00270	U		U	U	C3			
+Mp3g00450		D	D		C2			
+Mp3g00480		D	D		C1			
+Mp3g00500			U		C4			
+Mp3g00510	U				C5			
+Mp3g00640		U	U		C4			
+Mp3g00740		U			C2			
+Mp3g00790		D			C1			
+Mp3g00840	D	D	D	D	C6			
+Mp3g00850	U	U	U		C3			
+Mp3g00900	D	D		D	C6			
+Mp3g00910	D				C1			
+Mp3g00960	U		U	U	C4			
+Mp3g00980		D			C6			
+Mp3g01000	U		U		C5			
+Mp3g01020	U				C5			
+Mp3g01130	D	D		D	C1			
+Mp3g01145	D			D	C1			
+Mp3g01200	U		U		C4			
+Mp3g01320				D	C7			
+Mp3g01440	D	D	D		C1			
+Mp3g01480		D			C6			
+Mp3g01570		D	D	D	C1			
+Mp3g01610			U		C2			
+Mp3g01630	U		U	U	C4			
+Mp3g01690		U	U	U	C4			
+Mp3g01890	U				C5			
+Mp3g01920			U		C7			
+Mp3g01940		U	U		C7			
+Mp3g01970	U				C5			
+Mp3g01980			U		C5			
+Mp3g02010	U	U		U	C3			
+Mp3g02080	D	D		D	C1			
+Mp3g02160		D	D	D	C1			
+Mp3g02240		U		U	C2			
+Mp3g02290	U	U	U	U	C4			
+Mp3g02320		D	D	D	C6	MpHD3	transcription factor, HD	HD
+Mp3g02370		D	D		C6			
+Mp3g02410		U			C8			
+Mp3g02460		D			C6			
+Mp3g02470	D	D		D	C1			
+Mp3g02550	D	D		D	C1			
+Mp3g02580			D		C6			
+Mp3g02650	U				C5			
+Mp3g02660	U	U	U	U	C4			
+Mp3g02670	U				C5			
+Mp3g02710			U		C4			
+Mp3g02720	U		U		C5			
+Mp3g02800				U	C2			
+Mp3g02810		U		U	C2			
+Mp3g02820			U		C4			
+Mp3g02930			D		C6			
+Mp3g03030	U	U	U		C4			
+Mp3g03040			U		C4			
+Mp3g03100		U			C8			
+Mp3g03130	D	D	D	D	C1			
+Mp3g03140			D		C1			
+Mp3g03200	U	U	U	U	C4			
+Mp3g03350	U		U		C7			
+Mp3g03360		D		D	C1			
+Mp3g03370	D			D	C6			
+Mp3g03380	D	D	D	D	C1			
+Mp3g03390	D	D			C1			
+Mp3g03420		D	D		C6			
+Mp3g03530		U	U		C7			
+Mp3g03660	D				C1			
+Mp3g03770			U		C4			
+Mp3g03860	D				C1			
+Mp3g03870	D				C1			
+Mp3g03890	D	D	D	D	C1			
+Mp3g03970		D	D	D	C6			
+Mp3g03980	U		U		C4			
+Mp3g04030		D	D		C6	MpRKD	RWP-RK domain (RKD)-containing transcription factor	RKD
+Mp3g04050			U		C4			
+Mp3g04160	U	U	U	U	C2			
+Mp3g04190	U	U	U	U	C4			
+Mp3g04260	U	U	U	U	C4			
+Mp3g04300	D	D	D	D	C1			
+Mp3g04620	U	U	U		C4			
+Mp3g04830		D			C1			
+Mp3g04860	D				C6			
+Mp3g05060		D			C1			
+Mp3g05110	D	D		D	C6			
+Mp3g05150	D	U		U	C2			
+Mp3g05190	U		U	U	C4			
+Mp3g05200			D		C6			
+Mp3g05220	D		D		C6			
+Mp3g05230	U	D	U		C5			
+Mp3g05280	D	D	D	D	C6			
+Mp3g05310	D	D	D	D	C6			
+Mp3g05340			U		C5			
+Mp3g05460	D	D	D	D	C6			
+Mp3g05470			D		C6			
+Mp3g05490	U	U			C8			
+Mp3g05560	U	U			C4			
+Mp3g05600	U				C5			
+Mp3g05910		D	D	D	C6			
+Mp3g05930	U	U		U	C3			
+Mp3g06040	D	D	D	D	C6			
+Mp3g06080		U		U	C2			
+Mp3g06110	D	D	D	D	C6			
+Mp3g06140	U				C7			
+Mp3g06250	U				C5			
+Mp3g06260	D				C1			
+Mp3g06310		D			C1			
+Mp3g06320		U		U	C2			
+Mp3g06480		U	U	U	C4			
+Mp3g06490			U		C4			
+Mp3g06510	U	U	U	U	C4			
+Mp3g06520	U	U	U	U	C4			
+Mp3g06550	D				C6			
+Mp3g06560		U			C7			
+Mp3g06570		U	U		C7			
+Mp3g06650			U		C7			
+Mp3g06660			U		C4			
+Mp3g06930				U	C2			
+Mp3g06970	D		U		C7			
+Mp3g07140		U		U	C2			
+Mp3g07160			D		C2			
+Mp3g07260	D				C1			
+Mp3g07390		D		D	C6			
+Mp3g07400		D			C1			
+Mp3g07470	D				C1			
+Mp3g07630		U		U	C2			
+Mp3g07690	U		U		C7			
+Mp3g07700			U		C1			
+Mp3g07730	D	D	D	D	C6			
+Mp3g08060		D	D		C6			
+Mp3g08070			D		C6			
+Mp3g08090		U		U	C2			
+Mp3g08180		U	U	U	C3			
+Mp3g08200	U				C4			
+Mp3g08250			U		C3			
+Mp3g08340		D		D	C6			
+Mp3g08360	D		D		C6			
+Mp3g08375	D	D	D	D	C6			
+Mp3g08430	U				C5			
+Mp3g08750		U		U	C2			
+Mp3g08980		D	D		C1			
+Mp3g09010		U		U	C2			
+Mp3g09020		U		U	C2			
+Mp3g09050	U	U	U	U	C2			
+Mp3g09090		D			C1			
+Mp3g09170	U				C5			
+Mp3g09190	U				C5			
+Mp3g09200	U			U	C5			
+Mp3g09220	U				C5			
+Mp3g09240	D				C6			
+Mp3g09290	U		U		C4			
+Mp3g09400		U			C3			
+Mp3g09560		U		U	C2			
+Mp3g09750		U	D	U	C2			
+Mp3g09800	D	D	D	D	C6			
+Mp3g09930		D			C1			
+Mp3g10010		D	D	D	C1			
+Mp3g10080		U	U	U	C3			
+Mp3g10150	D				C2			
+Mp3g10210	D				C7			
+Mp3g10220		U	U		C7			
+Mp3g10230	D				C1			
+Mp3g10240	D				C1			
+Mp3g10340	D		D		C1			
+Mp3g10350	D	D	D	D	C6			
+Mp3g10370	U	U	U	U	C4			
+Mp3g10510			U		C4			
+Mp3g10530		D	D	D	C1			
+Mp3g10560		U		U	C2			
+Mp3g10580	U				C3			
+Mp3g10640			D		C2			
+Mp3g10690			D		C2			
+Mp3g10770				D	C6			
+Mp3g10780	D	D		D	C7			
+Mp3g10810				D	C6			
+Mp3g10820		U			C2			
+Mp3g10920	U	U	U		C4			
+Mp3g11090	D	D	D		C6			
+Mp3g11160		U			C8			
+Mp3g11280	D		U		C7			
+Mp3g11360			U		C4			
+Mp3g11390			U		C4			
+Mp3g11440	D				C1			
+Mp3g11460		U		U	C2			
+Mp3g11470	U	U	U	U	C2			
+Mp3g11520	D	D		D	C1			
+Mp3g11550		U		U	C3			
+Mp3g11760		D		D	C1			
+Mp3g11790		U		U	C2			
+Mp3g11830		U	D	U	C2			
+Mp3g11880	U				C5			
+Mp3g11900	U		U		C7	MpBHLH21	transcription factor, bHLH	bHLH
+Mp3g12040		U		U	C2			
+Mp3g12070		U		U	C3			
+Mp3g12180		D			C1			
+Mp3g12230	D	D			C1			
+Mp3g12240		D			C1			
+Mp3g12300	D	D	D	D	C6			
+Mp3g12340	U		D		C5			
+Mp3g12380	D				C1			
+Mp3g12400		D	D		C5			
+Mp3g12410	D	D			C1			
+Mp3g12570	D	D		D	C7			
+Mp3g12640		U			C3			
+Mp3g12660		U		U	C2			
+Mp3g12790		D	U		C7			
+Mp3g12920		U		U	C2			
+Mp3g12930		U	D		C8			
+Mp3g13150	U	D			C6			
+Mp3g13280	U	U		U	C2			
+Mp3g13340	D		D		C2			
+Mp3g13640		D	D		C1			
+Mp3g13710		D			C6			
+Mp3g13730		D		D	C6			
+Mp3g13740	U	D			C5			
+Mp3g13910	U				C5			
+Mp3g14030	U	U	U	U	C4			
+Mp3g14050		D		D	C6			
+Mp3g14070		D	D	D	C6			
+Mp3g14120	D	D		D	C6			
+Mp3g14180	U				C5			
+Mp3g14230	U				C4			
+Mp3g14290	U				C4			
+Mp3g14320		U	U		C3			
+Mp3g14340		D			C1			
+Mp3g14380	D	D	D	D	C2			
+Mp3g14440	D	D		D	C1			
+Mp3g14610	D	D			C1			
+Mp3g14660		U	U		C7			
+Mp3g14730		U			C2			
+Mp3g14780			U		C7			
+Mp3g14900		D			C7			
+Mp3g14910		U	U	U	C4			
+Mp3g14920		U		U	C2			
+Mp3g14960		D		D	C6			
+Mp3g15010		U		U	C2			
+Mp3g15230		U	U	U	C4			
+Mp3g15240		U			C2			
+Mp3g15290		U	U		C7			
+Mp3g15310		D			C1			
+Mp3g15330	D	D		D	C1			
+Mp3g15350	U		U	U	C4			
+Mp3g15370	U				C4			
+Mp3g15450	D	D	D	D	C6			
+Mp3g15460	U	U	D	U	C5			
+Mp3g15540		U		U	C2			
+Mp3g15580		U		U	C2			
+Mp3g15730	U			U	C5			
+Mp3g15740	D	D	D	D	C6			
+Mp3g15760		D	D	D	C1			
+Mp3g15770	U	U	U		C8			
+Mp3g15830		U	U		C4			
+Mp3g15910	U	U			C8			
+Mp3g15950	D	D	D	D	C6			
+Mp3g16010	U	U		U	C3			
+Mp3g16030		U		U	C2			
+Mp3g16080	U				C5			
+Mp3g16090	U	U		U	C3			
+Mp3g16190	U				C5			
+Mp3g16260		U		U	C2			
+Mp3g16340	D		U		C7			
+Mp3g16430	D	U			C7			
+Mp3g16460	D				C1			
+Mp3g16500	D				C1			
+Mp3g16520			U		C7			
+Mp3g16590	D	D	D	D	C6			
+Mp3g16640		D			C1			
+Mp3g16660		D			C1			
+Mp3g16670	D	D	D	D	C6			
+Mp3g16720	U				C5			
+Mp3g16760			U		C4			
+Mp3g16770		D			C7			
+Mp3g16780	D				C1			
+Mp3g16860	D			D	C6			
+Mp3g16900			D		C5			
+Mp3g17080	D				C2			
+Mp3g17100	D				C1			
+Mp3g17110	U				C5			
+Mp3g17120		U	U		C3			
+Mp3g17260		U		U	C2	MpBHLH7	transcription factor, bHLH	bHLH
+Mp3g17420	U	U			C4			
+Mp3g17440	U				C5			
+Mp3g17450	D	U	D	U	C2			
+Mp3g17470				D	C6			
+Mp3g17570	D	D	D	D	C1			
+Mp3g17580		U			C8			
+Mp3g17620	U	U			C3			
+Mp3g17740			U		C4			
+Mp3g17870				D	C6			
+Mp3g18030	D	D			C6			
+Mp3g18050	U	U	U		C7			
+Mp3g18090	D	D		D	C1			
+Mp3g18130		U	U	U	C3			
+Mp3g18140			U		C4			
+Mp3g18160		U		U	C2			
+Mp3g18190		U	U		C8			
+Mp3g18210		D	D		C2			
+Mp3g18270			U		C4			
+Mp3g18320		D	D	D	C6			
+Mp3g18400	U				C5			
+Mp3g18450				D	C8			
+Mp3g18460	U				C5			
+Mp3g18470	U		U		C4			
+Mp3g18480	U	D			C5			
+Mp3g18520		D			C1			
+Mp3g18590			U		C4	MpTRIHELIX32	transcription factor, Trihelix	Trihelix
+Mp3g18630	U	U			C3			
+Mp3g18710	D			D	C1			
+Mp3g18830			D		C6			
+Mp3g18940		D			C1			
+Mp3g19010		D			C1			
+Mp3g19050	D				C1			
+Mp3g19060	U	U	U	U	C3			
+Mp3g19080		U		U	C3			
+Mp3g19100	D	D	D		C1			
+Mp3g19350		U	U		C7			
+Mp3g19380		U			C8			
+Mp3g19390	D	U	U		C7			
+Mp3g19570				U	C2			
+Mp3g19610	D	D	U		C7			
+Mp3g19670		U		U	C2	MpBBX3	transcription factor, BBX	BBX
+Mp3g19690		D		D	C1			
+Mp3g19770	D	D		D	C6			
+Mp3g19790	D	D	D	D	C1			
+Mp3g19890			D		C6			
+Mp3g19920		D		D	C6			
+Mp3g20000			D	U	C2			
+Mp3g20050		D		D	C1	MpBBX2	transcription factor, BBX	BBX
+Mp3g20070				D	C6			
+Mp3g20100		D			C6			
+Mp3g20250	U	U			C8			
+Mp3g20260			D		C8			
+Mp3g20270	D	D	D	D	C6			
+Mp3g20300	D			D	C1			
+Mp3g20320	U	U	U	U	C4			
+Mp3g20350		U	U	U	C2			
+Mp3g20400		D	D		C6			
+Mp3g20450		U		U	C2			
+Mp3g20460				D	C6			
+Mp3g20530		D			C1			
+Mp3g20570		U			C8			
+Mp3g20600	D	D		D	C1			
+Mp3g20670			D		C6			
+Mp3g20675	D	D	D	D	C1			
+Mp3g20680				D	C6			
+Mp3g20700	D	D			C1			
+Mp3g20750		U	U		C7			
+Mp3g20780		U			C3			
+Mp3g20810		U		U	C2			
+Mp3g20870	U				C5	MpTRIHELIX34	transcription factor, Trihelix	Trihelix
+Mp3g20920	U	U		U	C3			
+Mp3g20930	U				C5			
+Mp3g20950	U				C5			
+Mp3g20970	D	D			C6			
+Mp3g21010	D	U			C8			
+Mp3g21090	U	U	U		C5			
+Mp3g21280	D				C1			
+Mp3g21310	U	U	U	U	C4			
+Mp3g21360	D	D	D	D	C6			
+Mp3g21370		D	D		C2			
+Mp3g21490				D	C6	MpC2H2-14	transcription factor, C2H2-ZnF	C2H2-ZnF
+Mp3g21520	U		U		C4			
+Mp3g21670	D		D	D	C6			
+Mp3g21730		U			C5			
+Mp3g21780				U	C2			
+Mp3g21800		D			C2			
+Mp3g21880			U		C4			
+Mp3g21900		U	U	U	C3			
+Mp3g21910			D		C2			
+Mp3g21950			D		C2			
+Mp3g21990	D	D	D		C2			
+Mp3g22040		D			C1			
+Mp3g22100	D				C1			
+Mp3g22130		D			C1			
+Mp3g22220		U	U		C7			
+Mp3g22240	D				C7			
+Mp3g22260	D	D	D		C1			
+Mp3g22310			D	D	C6			
+Mp3g22420			D		C2			
+Mp3g22550	D	D	D	D	C1			
+Mp3g22750	D	D		D	C1			
+Mp3g22770	D	D			C1			
+Mp3g22780	D				C1			
+Mp3g22870	U				C5			
+Mp3g22880	U		U		C4			
+Mp3g22910	U				C5			
+Mp3g22920				D	C6			
+Mp3g22950		U	U	U	C2			
+Mp3g22960		D			C2			
+Mp3g22990			D		C6			
+Mp3g23140			D		C6			
+Mp3g23150	D				C2			
+Mp3g23170		D	D	D	C1	MpR2R3-MYB8	transcription factor, MYB	MYB
+Mp3g23380		U			C8			
+Mp3g23390		U		U	C2			
+Mp3g23440		D			C1			
+Mp3g23520	D				C1			
+Mp3g23590	D	D			C1			
+Mp3g23650		D		D	C1			
+Mp3g23760	U		U		C5			
+Mp3g23770		U		U	C3			
+Mp3g23810		U		U	C2			
+Mp3g23840			D		C2			
+Mp3g23930	D	D	D	D	C6			
+Mp3g23970	U				C5			
+Mp3g24050	U				C5			
+Mp3g24120	D	D	D	D	C1			
+Mp3g24240		U		U	C2			
+Mp3g24290		U		U	C2			
+Mp3g24330	U		U	U	C4			
+Mp3g24380	D	D	D		C1			
+Mp3g24400			D		C2			
+Mp3g24510		D			C4			
+Mp3g24620	D	D		D	C6			
+Mp3g24640	D	D		D	C1			
+Mp3g24690	U				C5			
+Mp3g24700	U	U	U		C5			
+Mp3g24720	U				C5			
+Mp3g24920		U		U	C3			
+Mp3g24940		U	U	U	C8			
+Mp3g25090			D	D	C6			
+Mp3g25160		D	D		C1			
+Mp3g25200		D		D	C6	MpBHLH41	transcription factor, bHLH	bHLH
+Mp3g25210		D			C1			
+Mp3g25230	U	U			C3			
+Mp3g25320				D	C6			
+Mp3g25370		U			C3			
+Mp3g25440		U	U		C7			
+Mp3g25450	U	U	U	D	C7			
+Mp3g25515e			U		C4			
+Mp4g00005b			U		C4			
+Mp4g00070		D			C1			
+Mp4g00110	D	U		U	C2			
+Mp4g00150		D	D		C6			
+Mp4g00180	D	D			C1	MpWRKY13	transcription factor, WRKY	WRKY
+Mp4g00200	D	D		D	C1	MpWRKY12	transcription factor, WRKY	WRKY
+Mp4g00380	U	U	U		C7	MpERF14	transcription factor, AP2/ERF	AP2/ERF
+Mp4g00430		U		U	C2			
+Mp4g00510			U		C4			
+Mp4g00520	U		U		C7			
+Mp4g00650	U				C5			
+Mp4g00750	D		D		C1			
+Mp4g00830	U				C5			
+Mp4g00950	U	U	U	U	C4			
+Mp4g01030			U		C1			
+Mp4g01100			D		C2			
+Mp4g01210		U		U	C2			
+Mp4g01260		D	U		C5			
+Mp4g01290	U				C5			
+Mp4g01320	D			D	C1			
+Mp4g01480	D	D	D		C2			
+Mp4g01510	D		D		C8			
+Mp4g01540		D	D		C6	MpBHLH10	transcription factor, bHLH	bHLH
+Mp4g01580	U		U		C5			
+Mp4g01600		D		D	C1			
+Mp4g01700		D		D	C6			
+Mp4g01840	U		U	U	C4			
+Mp4g01890	D	D	U	D	C1			
+Mp4g01900				D	C6			
+Mp4g01920			D		C6			
+Mp4g01950	D	D	D	D	C6			
+Mp4g02070		U			C8			
+Mp4g02090		U			C7			
+Mp4g02110			D		C6			
+Mp4g02130	U				C5			
+Mp4g02230	U	D			C5			
+Mp4g02360	U		U		C4			
+Mp4g02370	U				C5			
+Mp4g02390	U	U	U	U	C3			
+Mp4g02400	U	U		U	C2			
+Mp4g02430		D	D		C6			
+Mp4g02500		U	U		C3			
+Mp4g02550	D	D	D	D	C6			
+Mp4g02700		D	D	D	C1			
+Mp4g02710			U		C4			
+Mp4g02810	U				C3			
+Mp4g02840	U	U		U	C3			
+Mp4g02940		D		D	C1			
+Mp4g02980	U				C5			
+Mp4g03040		D	D		C6			
+Mp4g03080	D	D	D	D	C6			
+Mp4g03090	D	D	D	D	C6			
+Mp4g03120		U			C7			
+Mp4g03330	U				C5			
+Mp4g03340	D	D	D	D	C1			
+Mp4g03350	D	D	D	D	C1			
+Mp4g03380			U	U	C4			
+Mp4g03460		D	U		C5			
+Mp4g03500	U				C5			
+Mp4g03510		D			C5			
+Mp4g03520			U		C4			
+Mp4g03530	D			D	C1			
+Mp4g03540	D			D	C6			
+Mp4g03600	U				C5			
+Mp4g03650			U		C4			
+Mp4g03680		D	D		C6			
+Mp4g03710		D		D	C1			
+Mp4g03780			D	U	C2			
+Mp4g03830			U		C4			
+Mp4g03840			U		C4			
+Mp4g03850	U				C5			
+Mp4g03860	U				C5			
+Mp4g03890	D	D	D	D	C6			
+Mp4g03920		U			C8			
+Mp4g03950		D			C1			
+Mp4g03980		D			C1			
+Mp4g03990	U				C5			
+Mp4g04010			D		C1			
+Mp4g04090	D				C1			
+Mp4g04110	U				C5			
+Mp4g04160	D	D	D	D	C1			
+Mp4g04210		U		D	C8			
+Mp4g04230		U			C7			
+Mp4g04280	D				C1			
+Mp4g04340	U				C5			
+Mp4g04600	U		U		C5			
+Mp4g04640		D			C5			
+Mp4g04650		D			C1			
+Mp4g04800	D				C6			
+Mp4g04820		U		U	C2			
+Mp4g04860			D		C6			
+Mp4g04950				D	C6			
+Mp4g05040		D			C1			
+Mp4g05080			U		C4			
+Mp4g05170	D		U		C7			
+Mp4g05210	D	D		D	C1			
+Mp4g05270			D		C6			
+Mp4g05290			D		C6			
+Mp4g05350		D			C1			
+Mp4g05390				U	C2			
+Mp4g05440	D		U		C7			
+Mp4g05450		U	U		C7			
+Mp4g05490	U	U	U	U	C3			
+Mp4g05500		U		U	C2			
+Mp4g05510		D		D	C1			
+Mp4g05530	U				C3			
+Mp4g05810	U				C5			
+Mp4g05950	U	U			C3			
+Mp4g05970	D				C8			
+Mp4g05980	D				C8			
+Mp4g05990	D				C8			
+Mp4g06000		U			C7			
+Mp4g06040	D				C8			
+Mp4g06070	U	U	U	U	C5			
+Mp4g06100	U	U	U	U	C4			
+Mp4g06180			D		C6			
+Mp4g06220			U		C4			
+Mp4g06240	U	U		U	C2			
+Mp4g06260				D	C6			
+Mp4g06290		U			C7			
+Mp4g06370		U		U	C3			
+Mp4g06390	U	U	U		C5			
+Mp4g06430		D	D		C2			
+Mp4g06470				U	C2			
+Mp4g06560	U	U	U	U	C3			
+Mp4g06630			D		C2			
+Mp4g06650			U	U	C4			
+Mp4g06660	U				C3			
+Mp4g06820	U	U			C5			
+Mp4g06840	D	D	D	D	C1			
+Mp4g06970	D		D		C2			
+Mp4g06980				D	C1			
+Mp4g07150	D				C6			
+Mp4g07180			U		C4			
+Mp4g07340				U	C2			
+Mp4g07420				D	C6			
+Mp4g07520			U	U	C4			
+Mp4g07560		U		U	C2			
+Mp4g07610		D			C1			
+Mp4g07630	U				C3			
+Mp4g07680	D	D	D		C6			
+Mp4g07690		D		D	C6			
+Mp4g07800	D		D		C6			
+Mp4g07860		U		U	C2			
+Mp4g07890		D			C1			
+Mp4g07920		D	D		C6			
+Mp4g07950		U			C7			
+Mp4g07970	U				C5			
+Mp4g08020		D			C5			
+Mp4g08030		D			C5			
+Mp4g08040		D	D		C2			
+Mp4g08070	D	D			C1			
+Mp4g08080	D	D		D	C1			
+Mp4g08110	U	U	U		C4			
+Mp4g08200			U		C4			
+Mp4g08220	D		D		C8			
+Mp4g08230		D			C6			
+Mp4g08240	D	D			C1			
+Mp4g08290		U	U	U	C4			
+Mp4g08320	D	D		D	C6			
+Mp4g08360	U	U	U	U	C4			
+Mp4g08370	U	U	U	U	C4			
+Mp4g08470		U			C8			
+Mp4g08550			D		C2			
+Mp4g08670		U			C7			
+Mp4g08700		D			C1	MpGARP2	transcription factor, GARP	GARP
+Mp4g08740		U	D	U	C2			
+Mp4g08760				U	C2			
+Mp4g08770		U	U		C7			
+Mp4g08820			D		C6			
+Mp4g08980		U			C8			
+Mp4g09040	D			D	C6			
+Mp4g09190		D	D	D	C1			
+Mp4g09230	D	U	U		C7			
+Mp4g09300		U			C8			
+Mp4g09330	U				C5			
+Mp4g09370	D	D		D	C1			
+Mp4g09390	D	D	D		C6			
+Mp4g09410	U		U		C7			
+Mp4g09470			U	U	C4			
+Mp4g09680			D		C5			
+Mp4g09740	U		U		C5			
+Mp4g09760	U	U	U	U	C5			
+Mp4g09790				U	C2			
+Mp4g09950				U	C2			
+Mp4g09980			U		C3			
+Mp4g10060		D	D		C6			
+Mp4g10290			U		C4			
+Mp4g10300	U	U	U	U	C3			
+Mp4g10330			U		C4			
+Mp4g10370			U		C5			
+Mp4g10460		U	U		C6			
+Mp4g10470			U		C4			
+Mp4g10490	D	D	D	D	C6			
+Mp4g10510	D		U		C7			
+Mp4g10530				D	C6			
+Mp4g10620		U			C8			
+Mp4g10800	D				C8			
+Mp4g10930		D		D	C1			
+Mp4g11020		D	D	D	C6			
+Mp4g11060			D		C6			
+Mp4g11130	D				C2			
+Mp4g11220		U			C8			
+Mp4g11300	D	U		U	C2			
+Mp4g11330		D	D		C6			
+Mp4g11370		D			C1			
+Mp4g11380		D		D	C1	MpC2H2-3	transcription factor, C2H2-ZnF	C2H2-ZnF
+Mp4g11410		U		U	C2			
+Mp4g11600			U	D	C7			
+Mp4g11640			U		C2			
+Mp4g11730				U	C4			
+Mp4g11800	U				C4			
+Mp4g11900		D		D	C1			
+Mp4g11930	U		U	U	C4			
+Mp4g11950	U				C5			
+Mp4g12000	D	D	D	D	C6			
+Mp4g12050		U		U	C2			
+Mp4g12110	U	U		U	C5			
+Mp4g12230		U		U	C8	MpHSF1	transcription factor, HSF	HSF
+Mp4g12300		U			C2			
+Mp4g12350		U			C2			
+Mp4g12380		U			C3			
+Mp4g12490	D				C6			
+Mp4g12510			U		C4			
+Mp4g12630		D		D	C6			
+Mp4g12800		U	U		C7			
+Mp4g12810			U		C7			
+Mp4g12820		U		U	C2			
+Mp4g12890	U	U	U	U	C2			
+Mp4g13040		U			C8			
+Mp4g13170		U			C2			
+Mp4g13330		U		U	C2			
+Mp4g13340			U	U	C4			
+Mp4g13390		U			C4			
+Mp4g13430	D	D	D	D	C6			
+Mp4g13440	D	D	D	D	C6			
+Mp4g13450		D	D	D	C6			
+Mp4g13480		U	U		C7			
+Mp4g13500	D	D		D	C1			
+Mp4g13720		U	U		C7			
+Mp4g13730		U			C7			
+Mp4g13780		D			C1			
+Mp4g13840	D				C7			
+Mp4g13940			D		C6			
+Mp4g13980		U		U	C2			
+Mp4g14080				U	C2			
+Mp4g14100	U		D		C5			
+Mp4g14110	U				C5			
+Mp4g14120	U				C5			
+Mp4g14140	U				C5			
+Mp4g14150	U	D			C5			
+Mp4g14160	U	D			C5			
+Mp4g14180	U				C5			
+Mp4g14190	U	D	D		C6			
+Mp4g14200	U	D	D		C5			
+Mp4g14210	U	D			C5			
+Mp4g14220	U				C5			
+Mp4g14310			U	U	C2			
+Mp4g14330		U	U		C4			
+Mp4g14350		D			C6			
+Mp4g14360		U		U	C2			
+Mp4g14400	U	U			C5			
+Mp4g14500	U				C3			
+Mp4g14550	U				C5			
+Mp4g14580			D		C6			
+Mp4g14600	U		U		C5			
+Mp4g14620	U				C5			
+Mp4g14660		U			C3			
+Mp4g14930		D	D	D	C1			
+Mp4g14960	U		U		C5			
+Mp4g14980			U		C7			
+Mp4g15010			U		C7			
+Mp4g15030		U		U	C2			
+Mp4g15090		U	U		C3			
+Mp4g15120		U		U	C3			
+Mp4g15170			U		C4	MpGARP6	transcription factor, GARP	GARP
+Mp4g15320	U				C5			
+Mp4g15420		U			C3			
+Mp4g15430		U	U	U	C2			
+Mp4g15440	U				C5			
+Mp4g15450	U				C5			
+Mp4g15460		U		U	C3			
+Mp4g15480		U		U	C2			
+Mp4g15570		U	U		C8			
+Mp4g15710			U		C4			
+Mp4g15770	U		U	U	C4			
+Mp4g15860	U		U		C5			
+Mp4g15940		U		U	C2			
+Mp4g15970	D				C2			
+Mp4g15980	D	D	D	D	C6			
+Mp4g16010			D		C6			
+Mp4g16020	U	D			C5			
+Mp4g16030			U		C7			
+Mp4g16050		U		U	C2			
+Mp4g16110			U		C4			
+Mp4g16120	U				C5			
+Mp4g16180	U		U		C4			
+Mp4g16250			U		C4			
+Mp4g16270	D	D	D	D	C1			
+Mp4g16310	U	U			C3			
+Mp4g16430			D	D	C1			
+Mp4g16550		U		U	C3			
+Mp4g16740	U	D			C5			
+Mp4g16860		U			C8			
+Mp4g16930		U			C3			
+Mp4g16960		U		U	C2			
+Mp4g17000		U		U	C3			
+Mp4g17020		U		U	C2			
+Mp4g17050		U		U	C2			
+Mp4g17170		U		U	C2	MpPPP1	transcription factor, PPP1	PPP1
+Mp4g17230		U	U	U	C3			
+Mp4g17240		U			C3			
+Mp4g17350		U			C8			
+Mp4g17360		U			C4			
+Mp4g17420			U		C7			
+Mp4g17700		U		U	C2			
+Mp4g17820		D			C1			
+Mp4g17840	U			U	C4			
+Mp4g17880	U	U	U		C8			
+Mp4g17950		U	U		C4			
+Mp4g18010		D			C6			
+Mp4g18020		D			C1			
+Mp4g18050				U	C2			
+Mp4g18140	D				C2			
+Mp4g18210	D		U		C7			
+Mp4g18220	D	D		D	C1			
+Mp4g18290		D	D		C1			
+Mp4g18300	U	U		U	C3			
+Mp4g18370	U				C5			
+Mp4g18380	U				C5			
+Mp4g18420	U	U	U	U	C4			
+Mp4g18900	D				C1			
+Mp4g18970		U		U	C2			
+Mp4g19000	U				C5			
+Mp4g19310		U		U	C2			
+Mp4g19320				D	C1			
+Mp4g19370			U	U	C4			
+Mp4g19390	U		U		C5			
+Mp4g19540	D		D		C1			
+Mp4g19560	D				C1			
+Mp4g19590				D	C1			
+Mp4g19600	D		D		C1			
+Mp4g19650			D		C1	MpBHLH38	transcription factor, bHLH	bHLH
+Mp4g19700		D			C1			
+Mp4g19730	D				C1			
+Mp4g19760	D	D	D	D	C6			
+Mp4g19770	U		U		C4			
+Mp4g19780			D		C2			
+Mp4g19840		U			C8			
+Mp4g19900		D			C5			
+Mp4g20210	U	U		U	C2			
+Mp4g20223		D			C1			
+Mp4g20226		D			C1			
+Mp4g20340		D			C1			
+Mp4g20420		D			C1			
+Mp4g20440	U		D		C6			
+Mp4g20450	D	D	D	D	C6			
+Mp4g20540	U				C5			
+Mp4g20680	U	U	U	U	C2			
+Mp4g20690		U			C8			
+Mp4g20720	U	U	U	U	C3			
+Mp4g20740		D			C1			
+Mp4g20760	U				C5			
+Mp4g20960	U				C5			
+Mp4g21050		U			C3			
+Mp4g21060	D	D	D	D	C6			
+Mp4g21100	D	D	D	D	C6			
+Mp4g21110	D				C1			
+Mp4g21120		D			C5			
+Mp4g21180	U				C5			
+Mp4g21220			U	U	C4	MpGARP7	transcription factor, GARP	GARP
+Mp4g21270	D	D		D	C1			
+Mp4g21350	D				C1			
+Mp4g21360	D				C1			
+Mp4g21450	U				C4			
+Mp4g21500	U				C4			
+Mp4g21550		U	U	U	C4			
+Mp4g21660	U				C5			
+Mp4g21730			U		C4			
+Mp4g21790		D	D	D	C6	MpR2R3-MYB20	transcription factor, MYB	MYB
+Mp4g21880		D			C1			
+Mp4g21990	U			U	C4			
+Mp4g22050			U	U	C4			
+Mp4g22110	U	U	U	U	C4			
+Mp4g22180		D			C1			
+Mp4g22210		U		U	C2			
+Mp4g22230	U		U		C4			
+Mp4g22240	U	U	U	U	C4			
+Mp4g22280	U	U	U		C7	MpERF17	transcription factor, AP2/ERF	AP2/ERF
+Mp4g22340	D	D	D	D	C1			
+Mp4g22370		D			C1			
+Mp4g22420		U	U		C8			
+Mp4g22450	U				C5			
+Mp4g22500		U		U	C2			
+Mp4g22550	U	D			C5			
+Mp4g22580			U		C4			
+Mp4g22610		U		U	C2			
+Mp4g22620			U	U	C4			
+Mp4g22680	D	D	D	D	C1			
+Mp4g22860			U		C4			
+Mp4g22970			U		C4			
+Mp4g23140	D				C1			
+Mp4g23230	U	U	U	U	C4			
+Mp4g23270	U	U			C3			
+Mp4g23320		U			C3			
+Mp4g23340	D	D		D	C6			
+Mp4g23370		U			C7			
+Mp4g23420			D	D	C6			
+Mp4g23480	D				C7			
+Mp4g23570				U	C2			
+Mp4g23630		D	D		C2			
+Mp4g23700	D		U		C4			
+Mp4g23890	D				C1			
+Mp4g23980			D		C2			
+Mp5g00005b			U		C4			
+Mp5g00140	D				C2			
+Mp5g00160	D	D	D	D	C1			
+Mp5g00360		D			C5			
+Mp5g00390		U		U	C2			
+Mp5g00400		U		U	C2			
+Mp5g00470		U	U		C7			
+Mp5g00520			U		C4			
+Mp5g00550				D	C6			
+Mp5g00560		D	U		C7			
+Mp5g00590		U			C7			
+Mp5g00620	U		U		C5			
+Mp5g00630			U		C4			
+Mp5g00690	D	U	D	U	C2			
+Mp5g00700			U	U	C2			
+Mp5g00860	D			D	C6			
+Mp5g01110		U			C3			
+Mp5g01200	U				C5			
+Mp5g01570		U	U	U	C4			
+Mp5g01580			U	U	C4			
+Mp5g01770		U		U	C2			
+Mp5g01800			D		C6			
+Mp5g01880		D	D	D	C6			
+Mp5g01910	D				C6			
+Mp5g01970		U		U	C2			
+Mp5g01980	U	U		U	C3			
+Mp5g02000	D			D	C1			
+Mp5g02030	U	U	U		C3			
+Mp5g02050			D		C2			
+Mp5g02080	U		D		C5			
+Mp5g02090	U		D		C2			
+Mp5g02270			D		C8			
+Mp5g02330		D		D	C1			
+Mp5g02340		D	D		C1			
+Mp5g02500	U				C5			
+Mp5g02510	U	U			C8			
+Mp5g02620	U				C5			
+Mp5g02730		D			C1			
+Mp5g02750			U		C4			
+Mp5g02800	D		U		C7			
+Mp5g02980		U		U	C2			
+Mp5g03090	D		D		C1			
+Mp5g03140	U				C5			
+Mp5g03150		U	D	U	C2			
+Mp5g03160		U	U	U	C2			
+Mp5g03180		U		U	C2			
+Mp5g03330			U		C4			
+Mp5g03340	D	D			C1			
+Mp5g03360		U	U		C4			
+Mp5g03520		D			C6			
+Mp5g03560	D		D	D	C6			
+Mp5g03580				D	C8			
+Mp5g03600		U		U	C2			
+Mp5g03670				D	C6			
+Mp5g03900	D			D	C6			
+Mp5g03920	D	D		D	C6			
+Mp5g03970		U		U	C2			
+Mp5g04040		U		U	C2			
+Mp5g04050				U	C2			
+Mp5g04070			U		C7			
+Mp5g04140	D	U		U	C2			
+Mp5g04210		U			C4			
+Mp5g04260		U		U	C2			
+Mp5g04520	U	U	U		C4			
+Mp5g04530		U		U	C3			
+Mp5g04580	D			D	C6			
+Mp5g04600	D	D		D	C6			
+Mp5g04700	U	U	U	U	C3			
+Mp5g04710	U				C5			
+Mp5g04750	U	U	U	U	C4			
+Mp5g04760			U		C7			
+Mp5g04860			U		C4			
+Mp5g04900	D	D	D	D	C1			
+Mp5g04910	U				C5			
+Mp5g04950		D			C1			
+Mp5g05070	D	D			C1			
+Mp5g05130		U		U	C3			
+Mp5g05140		U		U	C3			
+Mp5g05150		D		D	C6			
+Mp5g05320	U	U	U		C3			
+Mp5g05380		U			C3			
+Mp5g05390	D	U			C2			
+Mp5g05400			D		C6			
+Mp5g05520	D				C5			
+Mp5g05560	U	D	D		C5	MpWRKY3	transcription factor, WRKY	WRKY
+Mp5g05730		U	U	D	C7			
+Mp5g05780			D		C6			
+Mp5g05830	D				C7			
+Mp5g05900			U		C4			
+Mp5g05940	U		U		C5	MpBBX1	transcription factor, BBX	BBX
+Mp5g06100		U	U	U	C2			
+Mp5g06150			U	U	C4			
+Mp5g06220		U	U	U	C4			
+Mp5g06260		U		U	C2			
+Mp5g06340	D	D		D	C6			
+Mp5g06380	U		U		C4			
+Mp5g06450			U		C4			
+Mp5g06470			U		C4			
+Mp5g06550		D		D	C6			
+Mp5g06600			U		C4			
+Mp5g06630	D	D		D	C1			
+Mp5g06710		U	U		C7			
+Mp5g06950		U	U	U	C2			
+Mp5g06960	U				C3			
+Mp5g06970	U	U	U	U	C7	MpERF20	transcription factor, AP2/ERF	AP2/ERF
+Mp5g07150			D	D	C6			
+Mp5g07190	D	D		D	C1			
+Mp5g07200	D	D		D	C1			
+Mp5g07330		U			C8			
+Mp5g07400	U	U	U	U	C4			
+Mp5g07420			U		C4			
+Mp5g07440	D				C7			
+Mp5g07500	D	D	D	D	C1			
+Mp5g07540		D			C1			
+Mp5g07640				D	C1			
+Mp5g07740	D		D	D	C6			
+Mp5g07905		U		U	C3			
+Mp5g07940				D	C6			
+Mp5g07950				D	C6			
+Mp5g07990	U		U		C5			
+Mp5g08020	U				C5			
+Mp5g08040	U				C4			
+Mp5g08070	U				C5			
+Mp5g08090				D	C6			
+Mp5g08100		U		U	C2			
+Mp5g08110			U		C4			
+Mp5g08140		U	U		C4			
+Mp5g08320	U	U	U		C5			
+Mp5g08420			U		C4			
+Mp5g08490	U				C5			
+Mp5g08550			D		C6			
+Mp5g08560		D	D		C2			
+Mp5g08580		D	D		C2			
+Mp5g08590		D	U		C4			
+Mp5g08640		U		U	C4			
+Mp5g08720	U	U	U		C4			
+Mp5g08730			D		C6			
+Mp5g08750	D	D			C1			
+Mp5g08770	D	D	D	D	C1			
+Mp5g08790			U		C4			
+Mp5g08910			U		C7			
+Mp5g08960		D		D	C6			
+Mp5g09050			U		C4			
+Mp5g09070			U		C3			
+Mp5g09090	U	U	U		C4			
+Mp5g09130		D	D		C6	MpGATA5	transcription factor, GATA	GATA
+Mp5g09250		U	U	U	C3			
+Mp5g09400		U	U		C8			
+Mp5g09410		U	U		C4			
+Mp5g09430		U		U	C2			
+Mp5g09450			U		C7			
+Mp5g09530			U		C4			
+Mp5g09580		U			C2			
+Mp5g09620		U	U		C3			
+Mp5g09710		D	D	D	C6	MpBHLH42	transcription factor, bHLH	bHLH
+Mp5g09760	U	U	U	U	C7			
+Mp5g09910		D			C7			
+Mp5g10100		U		U	C3			
+Mp5g10120			U		C7			
+Mp5g10260			D		C6			
+Mp5g10280		U		U	C2	MpAP2L3	transcription factor, AP2/ERF	AP2/ERF
+Mp5g10430	U	U	D		C5			
+Mp5g10480	D				C1			
+Mp5g10550	U	D			C5			
+Mp5g10600		D	U	D	C7			
+Mp5g10660	U				C5			
+Mp5g10670	U				C5			
+Mp5g10690	U	U	U		C7			
+Mp5g10700	U				C5			
+Mp5g10800		D		D	C6			
+Mp5g10960	D	D	D		C6	MpASLBD11	transcription factor, ASL/LBD	ASL/LBD
+Mp5g11030		D		D	C1			
+Mp5g11060	U				C5	MpHD16	transcription factor, HD	HD
+Mp5g11110			D		C6			
+Mp5g11120		U		U	C2			
+Mp5g11150	U	U			C3			
+Mp5g11160	U				C5			
+Mp5g11280	D	D		D	C6			
+Mp5g11290	D	D	D	D	C6			
+Mp5g11300	D	D	D	D	C6			
+Mp5g11410	D			D	C7			
+Mp5g11430	D	D		D	C1			
+Mp5g11440		U	U		C7			
+Mp5g11460	D		D		C1	MpASLBD12	transcription factor, ASL/LBD	ASL/LBD
+Mp5g11490	U	U		U	C5			
+Mp5g11520			D		C2			
+Mp5g11750	D				C2			
+Mp5g11830	U	U			C5	MpRR-MYB5	transcription factor, MYB	MYB
+Mp5g11910			U		C3			
+Mp5g12010			U		C4			
+Mp5g12090		D			C4			
+Mp5g12200	U				C5			
+Mp5g12230			D		C6			
+Mp5g12260	U	U		U	C3			
+Mp5g12390			U		C4			
+Mp5g12460		D			C5			
+Mp5g12480			U	U	C2	MpERF18	transcription factor, AP2/ERF	AP2/ERF
+Mp5g12510	D		D		C6			
+Mp5g12520	D	D			C6			
+Mp5g12530		D			C6			
+Mp5g12880	D				C1			
+Mp5g12910		U		U	C3			
+Mp5g12930	U	U			C3			
+Mp5g12960				D	C6			
+Mp5g13000		U		U	C2			
+Mp5g13020	U				C5			
+Mp5g13090	U				C4			
+Mp5g13130		U			C3			
+Mp5g13140	U	U	U	U	C4			
+Mp5g13190	U	U			C5			
+Mp5g13230	D	D		D	C6			
+Mp5g13250	D				C1			
+Mp5g13300	D	D	D	D	C6			
+Mp5g13320			U		C4			
+Mp5g13350		U	U		C7			
+Mp5g13390			D	D	C6			
+Mp5g13430	U				C4			
+Mp5g13460	U	U	U	U	C3			
+Mp5g13490	D	D			C6			
+Mp5g13690			D		C5			
+Mp5g13700			D		C6			
+Mp5g13860	D	D	D	D	C6			
+Mp5g13870	D	D	D	D	C6			
+Mp5g13950		U	U	U	C2			
+Mp5g14020		D			C5			
+Mp5g14050	D		U		C7			
+Mp5g14070		U			C2	MpTRIHELIX13	transcription factor, Trihelix	Trihelix
+Mp5g14210		D			C1			
+Mp5g14320		U	U		C7			
+Mp5g14430	D	D	D	D	C6			
+Mp5g14440	D	D	D	D	C6			
+Mp5g14670	U				C5			
+Mp5g14700	U				C5			
+Mp5g14750	U				C4			
+Mp5g14820		D			C5	MpTRIHELIX38	transcription factor, Trihelix	Trihelix
+Mp5g14900	D	D	D	D	C1			
+Mp5g15000				U	C3			
+Mp5g15040	D	D	D	D	C6			
+Mp5g15060		U		U	C2			
+Mp5g15110		U	D		C2			
+Mp5g15140		U		U	C2			
+Mp5g15230		U		U	C2			
+Mp5g15290	D			D	C1			
+Mp5g15320	D	D	D	D	C6			
+Mp5g15390	D				C7			
+Mp5g15410	U	U	U		C3			
+Mp5g15430		D	D		C1			
+Mp5g15550		U	U		C3			
+Mp5g15620	D	U		D	C7			
+Mp5g15650		U	U		C8			
+Mp5g15690		D			C1			
+Mp5g15740		U		U	C2			
+Mp5g15770	D	D	D	D	C1			
+Mp5g15820			D	D	C6			
+Mp5g15850				U	C2			
+Mp5g15940		U		U	C2			
+Mp5g15980	U				C5			
+Mp5g15990	U		D		C5			
+Mp5g16060	D	D	D	D	C1			
+Mp5g16090	D	D	D	D	C1			
+Mp5g16220	U	D	D	D	C5			
+Mp5g16230		D		D	C1			
+Mp5g16240	U			D	C5			
+Mp5g16540	U	U			C8			
+Mp5g16560		D		D	C6			
+Mp5g16770	U		D		C5			
+Mp5g16780			D		C2			
+Mp5g16820	U	D			C5			
+Mp5g16840		D	D		C6			
+Mp5g16900			D		C5			
+Mp5g16910		U	D	D	C6			
+Mp5g16920	U	U	D	U	C5			
+Mp5g16930	U	U		U	C5			
+Mp5g17270			U		C5			
+Mp5g17400	U	U	U	U	C4			
+Mp5g17520				D	C6			
+Mp5g17550	D				C1			
+Mp5g17610	D				C1			
+Mp5g17730	D		D		C6			
+Mp5g17870		D			C1			
+Mp5g17910	U				C5			
+Mp5g17990		U		U	C2			
+Mp5g18010		U		U	C3			
+Mp5g18090	D	D	D	D	C6			
+Mp5g18180		D	D	D	C6			
+Mp5g18190			D		C6			
+Mp5g18250	U	U	U		C7			
+Mp5g18320	U				C5			
+Mp5g18350	U				C5			
+Mp5g18380		U			C8			
+Mp5g18460			D		C6			
+Mp5g18490			D	D	C6			
+Mp5g18500	D	D	D	D	C1			
+Mp5g18530			D		C6			
+Mp5g18680	U				C5			
+Mp5g18690				U	C3			
+Mp5g18720		D		D	C6			
+Mp5g18790		D			C6			
+Mp5g18820	D	D		D	C1	MpBHLH39	transcription factor, bHLH	bHLH
+Mp5g18870			U		C4			
+Mp5g18910			U		C7	MpBHLH40	transcription factor, bHLH	bHLH
+Mp5g18960	U				C5			
+Mp5g18970	U		U		C4			
+Mp5g18980	U		U	U	C4			
+Mp5g18990		D			C6			
+Mp5g19150	U				C5			
+Mp5g19160	U	D			C5			
+Mp5g19190	D	U			C7			
+Mp5g19380		D	U		C6			
+Mp5g19480	D	D	U		C4			
+Mp5g19560	U				C5			
+Mp5g19570			U		C4			
+Mp5g19620		U			C3			
+Mp5g19630	D				C7			
+Mp5g19670		U			C3			
+Mp5g19680			U		C4			
+Mp5g19710			U	U	C2			
+Mp5g19770	D	D			C1			
+Mp5g19790	D				C6			
+Mp5g19810			D		C6			
+Mp5g19820			U		C4			
+Mp5g19840	D	D	D	D	C6			
+Mp5g19880	U	U			C5			
+Mp5g19920	D	D		D	C1			
+Mp5g19970	D				C7			
+Mp5g19990	D				C6			
+Mp5g20040	D				C6			
+Mp5g20045	D				C6			
+Mp5g20360	U	U	U	U	C4			
+Mp5g20380			D	D	C6			
+Mp5g20470		U		U	C2			
+Mp5g20660			D		C5	MpGRAS6	transcription factor, GRAS	GRAS
+Mp5g20790			D		C6			
+Mp5g20860			U		C4			
+Mp5g20900		U		U	C2			
+Mp5g20910			U		C5			
+Mp5g20930			U		C4			
+Mp5g21020		D	U		C7			
+Mp5g21040	D	D		D	C1			
+Mp5g21100		U			C8			
+Mp5g21130		U	U		C3			
+Mp5g21210	U				C5			
+Mp5g21350		D			C1			
+Mp5g21380	U				C5			
+Mp5g21385	D		D	D	C6			
+Mp5g21420		D			C5			
+Mp5g21450	D			D	C6			
+Mp5g21600		D			C5			
+Mp5g21640	D				C1			
+Mp5g21780				D	C6			
+Mp5g21870	D	U			C2			
+Mp5g21920		D	D	D	C1			
+Mp5g21930	U				C2			
+Mp5g21960	D	D	D	D	C1			
+Mp5g22080		D		D	C6			
+Mp5g22160	D	D	D	D	C1	MpERF21	transcription factor, AP2/ERF	AP2/ERF
+Mp5g22190			U		C4			
+Mp5g22410		D	D		C5			
+Mp5g22540	U	U	U		C4			
+Mp5g22590		D	D		C5			
+Mp5g22730			D		C2			
+Mp5g22790	U			U	C4			
+Mp5g22830				U	C4			
+Mp5g22920		U		U	C2			
+Mp5g23080			D		C6			
+Mp5g23350			U		C4			
+Mp5g23520	D	D	D	D	C1			
+Mp5g23540		D			C1			
+Mp5g23550			U		C7			
+Mp5g23560			U		C4			
+Mp5g23660	U	U	U	U	C4			
+Mp5g23700		U		U	C2			
+Mp5g23740	D	D	D		C6			
+Mp5g23750		D	D		C2			
+Mp5g23860		U		U	C2			
+Mp5g24010		D	D		C1			
+Mp5g24090	U	U		U	C3			
+Mp5g24120		U			C3			
+Mp5g24130		U	U		C7			
+Mp5g24210	D		D	D	C8			
+Mp5g24220		U	D	U	C2			
+Mp5g24230		U		U	C2			
+Mp5g24330	D	D	D	D	C1			
+Mp5g24340	D	D			C1			
+Mp5g24390		U		U	C2			
+Mp5g24400		U	U		C7			
+Mp5g24420		U	U		C7			
+Mp5g24500			D	D	C6			
+Mp5g24550	D	D		D	C6			
+Mp6g00020	U	D			C5			
+Mp6g00130		U			C7			
+Mp6g00310		U	U		C4			
+Mp6g00360	D		D		C2			
+Mp6g00390	D				C2			
+Mp6g00400	D		U	D	C6			
+Mp6g00460	D				C1			
+Mp6g00480		D			C1			
+Mp6g00500		D			C1			
+Mp6g00690	D				C1			
+Mp6g00770			U		C4			
+Mp6g00790		D			C1			
+Mp6g01030	U				C5			
+Mp6g01060	D	D	D	D	C1			
+Mp6g01110		U			C2			
+Mp6g01190	U				C5			
+Mp6g01270	D				C1			
+Mp6g01310		U			C3			
+Mp6g01410	D	D	D		C6			
+Mp6g01420		U		U	C2			
+Mp6g01440	U		D		C6			
+Mp6g01490	U				C3			
+Mp6g01550		U			C7			
+Mp6g01570		U		U	C2			
+Mp6g01720		U		U	C2			
+Mp6g01840			D		C6			
+Mp6g01870			U		C4			
+Mp6g01960		D			C1			
+Mp6g02000		U			C3			
+Mp6g02020	D				C7			
+Mp6g02030		U			C8			
+Mp6g02060	D				C8			
+Mp6g02070	D				C8			
+Mp6g02120	U	U			C5			
+Mp6g02130	U		D		C6			
+Mp6g02160	U		U		C5			
+Mp6g02170	U		U	U	C4			
+Mp6g02250	U		U	U	C4			
+Mp6g02280				U	C4			
+Mp6g02290	U	U		U	C3			
+Mp6g02380		D	D	D	C1			
+Mp6g02400			U		C4			
+Mp6g02420			U		C3			
+Mp6g02550	U	U		U	C3			
+Mp6g02620	D	D		D	C1	MpNAC7	transcription factor, NAC	NAC
+Mp6g02830			U		C4			
+Mp6g02860		U			C7			
+Mp6g02870		D		D	C1			
+Mp6g02920	D			D	C6			
+Mp6g03030	D	U			C8			
+Mp6g03090		U	U		C8			
+Mp6g03150	D	D	D	D	C6			
+Mp6g03240	D	D		D	C6			
+Mp6g03280			U	U	C4			
+Mp6g03300	D	D		D	C1			
+Mp6g03310	D	D			C7			
+Mp6g03320		U		U	C2			
+Mp6g03330	U	U	U	U	C2			
+Mp6g03450				D	C6			
+Mp6g03510	D	D		D	C1			
+Mp6g03620		D	D	D	C1			
+Mp6g03700	D	U	U	U	C3			
+Mp6g03710			U	U	C4			
+Mp6g03720	D	D	D	D	C1			
+Mp6g03790		D			C7			
+Mp6g03850		D		D	C1			
+Mp6g03890	U	U		U	C5			
+Mp6g03920			U	U	C4	MpBZIP9	transcription factor, bZIP	bZIP
+Mp6g03960	U	U	U	U	C4			
+Mp6g03970		D			C1			
+Mp6g03990	U				C5			
+Mp6g04020			U		C4			
+Mp6g04070		D	D	D	C6			
+Mp6g04110	D	D	D	D	C1			
+Mp6g04470	D				C1			
+Mp6g04480	D	D	D	D	C6			
+Mp6g04540	U	U	U		C3			
+Mp6g04710		U	U		C8			
+Mp6g04760				U	C2			
+Mp6g04770		U	U	U	C2			
+Mp6g04780	U		U		C5			
+Mp6g04830	U	U	U	U	C5	MpR2R3-MYB10	transcription factor, MYB	MYB
+Mp6g04880	D			D	C7	MpERF7	transcription factor, AP2/ERF	AP2/ERF
+Mp6g04930	D	D	D	D	C1			
+Mp6g05000		D			C6			
+Mp6g05060		U		U	C2			
+Mp6g05120		D		D	C1			
+Mp6g05140				U	C2			
+Mp6g05150		U		U	C2			
+Mp6g05250		U			C3			
+Mp6g05340		U		U	C2			
+Mp6g05390			U	U	C4			
+Mp6g05430		U			C8			
+Mp6g05500	U			U	C5			
+Mp6g05510	U	U	U	U	C4			
+Mp6g05520		U		U	C2			
+Mp6g05530		U		U	C2			
+Mp6g05540	D			D	C6			
+Mp6g05600	U	U			C5			
+Mp6g05670				U	C4			
+Mp6g05730	U	U	U		C7			
+Mp6g05800	D				C1			
+Mp6g05850			U		C4			
+Mp6g05900		D	D		C2			
+Mp6g05940		U	U		C5			
+Mp6g05980		D	D	D	C6			
+Mp6g06000	U		U	U	C5			
+Mp6g06010		U			C3			
+Mp6g06020	U	U	U		C3			
+Mp6g06220		D	D	D	C1			
+Mp6g06260		U		U	C2			
+Mp6g06540	U	U		U	C2			
+Mp6g06600	D				C2			
+Mp6g06720			U		C4			
+Mp6g06810		U		U	C3			
+Mp6g06900	U	U	D	U	C2			
+Mp6g06950		U		U	C2			
+Mp6g06960		D	D		C5			
+Mp6g06980		D	U		C4			
+Mp6g07010	D	D	D	D	C6			
+Mp6g07050	D	D	D	D	C6			
+Mp6g07120	D			D	C6			
+Mp6g07150	D	D	U	D	C1			
+Mp6g07160		D	D	D	C1			
+Mp6g07310	U	U	U	U	C4			
+Mp6g07390				U	C4			
+Mp6g07470		D			C1			
+Mp6g07550	D	D		D	C6			
+Mp6g07560		U	U		C7			
+Mp6g07630			U		C4			
+Mp6g07760	U				C5			
+Mp6g07910	D			D	C6			
+Mp6g07950	D	U	D		C8			
+Mp6g08020	U		U		C4			
+Mp6g08030			U		C5			
+Mp6g08040	U	U	U	U	C4			
+Mp6g08170	U	U	U	U	C4			
+Mp6g08190			U		C4			
+Mp6g08200		D		D	C1			
+Mp6g08260		U	U	U	C3			
+Mp6g08270		U	U	U	C3			
+Mp6g08280				U	C2			
+Mp6g08310	D	D		D	C6			
+Mp6g08420	U		U		C5			
+Mp6g08530	U	U	U	U	C3			
+Mp6g08540	U	U	U	U	C3			
+Mp6g08550			D		C6			
+Mp6g08660	D				C2			
+Mp6g08690		D			C5	MpERF13	transcription factor, AP2/ERF	AP2/ERF
+Mp6g08810	D				C1			
+Mp6g08960	U				C5			
+Mp6g09180	D	D	D	D	C6			
+Mp6g09190	D				C2			
+Mp6g09230	U	U	U	U	C3			
+Mp6g09240				U	C2			
+Mp6g09250				U	C2			
+Mp6g09300		D			C6			
+Mp6g09310			U		C4			
+Mp6g09420		U			C7			
+Mp6g09570		U	U		C8			
+Mp6g09590			D		C6			
+Mp6g09630		U			C8			
+Mp6g09650	U	U	U	U	C4			
+Mp6g09730	D	D	D	D	C6			
+Mp6g09900	D				C1			
+Mp6g09960		D			C6			
+Mp6g10070			D		C6			
+Mp6g10120			U		C4			
+Mp6g10160	U	U		U	C2			
+Mp6g10230		U		U	C3			
+Mp6g10280	U	U			C5			
+Mp6g10330			U	U	C4			
+Mp6g10340			U		C4			
+Mp6g10350		D			C1			
+Mp6g10370			U		C4			
+Mp6g10450		U		U	C2			
+Mp6g10520			U	U	C4			
+Mp6g10570		D			C1	MpBZIP5	transcription factor, bZIP	bZIP
+Mp6g10840		D		D	C1			
+Mp6g10900			D	D	C8			
+Mp6g10990		U			C8			
+Mp6g11030			D		C6			
+Mp6g11240		D			C1			
+Mp6g11300	U	U	U	U	C3			
+Mp6g11340		U			C7			
+Mp6g11440	D	D	D	D	C1			
+Mp6g11540	D	D	D	D	C6			
+Mp6g11570	U	U			C4			
+Mp6g11680	D	D	D	D	C6			
+Mp6g11700	U	D			C5			
+Mp6g11720		U			C8			
+Mp6g11740		D	D		C1			
+Mp6g11780		U	U		C7			
+Mp6g11790		U			C8			
+Mp6g11810		U			C5			
+Mp6g11870	U				C4			
+Mp6g11940			D		C5			
+Mp6g11960	U	U		U	C2			
+Mp6g12090	D				C7			
+Mp6g12130				U	C4			
+Mp6g12260		D			C1			
+Mp6g12310	D		D	D	C6			
+Mp6g12330		U			C7			
+Mp6g12580		U		U	C2			
+Mp6g12650		U	U		C4			
+Mp6g12710		U		U	C3			
+Mp6g12740		D	D	D	C6			
+Mp6g12900			U		C4			
+Mp6g12970	D	D	U		C7			
+Mp6g13030		U	U	U	C3			
+Mp6g13140				U	C2			
+Mp6g13190	U	U	U		C4			
+Mp6g13200		U			C2			
+Mp6g13210		D			C1			
+Mp6g13270			D	D	C6			
+Mp6g13590	D		D		C8			
+Mp6g13610		D	D	D	C6			
+Mp6g13670			U	U	C4			
+Mp6g13680		U			C3			
+Mp6g13700				D	C6			
+Mp6g13850		U			C2			
+Mp6g13910	D				C7			
+Mp6g14070	U	U	U		C5			
+Mp6g14080	U				C5			
+Mp6g14140	U				C5			
+Mp6g14180	D		D	U	C2			
+Mp6g14200	U	U	U		C5			
+Mp6g14210				D	C6			
+Mp6g14300		U		U	C2			
+Mp6g14340	D		U		C7			
+Mp6g14400	U	U	U	U	C4			
+Mp6g14420			U		C5			
+Mp6g14490		D			C1			
+Mp6g14510		U		U	C2			
+Mp6g14520	D	U	D	U	C2			
+Mp6g14550	D	D			C1			
+Mp6g14600	D	D			C1			
+Mp6g14720	D	U	D	U	C2			
+Mp6g14730	D		D		C2			
+Mp6g14830		U			C4			
+Mp6g14850	D	D	D		C6			
+Mp6g14990	D				C6			
+Mp6g15110	D	D		D	C7			
+Mp6g15150	D				C2			
+Mp6g15230			U		C4			
+Mp6g15240	U				C5			
+Mp6g15250		D			C5			
+Mp6g15280			U	U	C4			
+Mp6g15460		U			C8			
+Mp6g15580	U	U	U	U	C4			
+Mp6g15610			U		C5			
+Mp6g15620	D	D		D	C1			
+Mp6g15640		D		D	C1			
+Mp6g15650		D			C1			
+Mp6g15680		U			C7			
+Mp6g15810	U		U		C7			
+Mp6g15820	U		U		C7			
+Mp6g16230	U	U	U	U	C3			
+Mp6g16280	D	D	U		C1			
+Mp6g16310	U	U	U	U	C4			
+Mp6g16320	U				C5			
+Mp6g16370	D				C1			
+Mp6g16380	D	D			C1			
+Mp6g16430	D				C1			
+Mp6g16500	U				C7			
+Mp6g16540			U	U	C4			
+Mp6g16740		D			C1			
+Mp6g16800	D	D	D	D	C6	MpWRKY14	transcription factor, WRKY	WRKY
+Mp6g16880		U		U	C3			
+Mp6g16900	U				C4			
+Mp6g16970		U	D	U	C2			
+Mp6g16980	D				C1			
+Mp6g17000				U	C2			
+Mp6g17040	D	D	D		C1			
+Mp6g17050		D			C1			
+Mp6g17140		D	D		C6			
+Mp6g17160	D		D		C1			
+Mp6g17220	D		D		C1			
+Mp6g17230		U			C8			
+Mp6g17240		U			C8			
+Mp6g17260	D				C7			
+Mp6g17270	D	D			C1			
+Mp6g17310			U		C4			
+Mp6g17320			U		C4			
+Mp6g17450			U		C4			
+Mp6g17540		U	U		C8			
+Mp6g17560		U			C3			
+Mp6g17700		U	D		C8			
+Mp6g17720	U	U			C8			
+Mp6g17890			U		C7			
+Mp6g18000			D		C1			
+Mp6g18030		U	U		C8			
+Mp6g18130		U			C8			
+Mp6g18180		D			C1			
+Mp6g18200	U				C5			
+Mp6g18230	U	U			C3			
+Mp6g18450		U	U	U	C8			
+Mp6g18480	U	U	U	U	C4	MpBHLH15	transcription factor, bHLH	bHLH
+Mp6g18550	U				C4			
+Mp6g18650	D	D			C1	MpERF8	transcription factor, AP2/ERF	AP2/ERF
+Mp6g18730	D	D	D	D	C6			
+Mp6g18780	D	D	D	D	C6			
+Mp6g18930		D			C1			
+Mp6g18940	U	U	U	U	C7			
+Mp6g19010			D		C2			
+Mp6g19040			U		C7			
+Mp6g19130		U	U	U	C3			
+Mp6g19170	U	U	U	U	C2			
+Mp6g19230	U		U		C4			
+Mp6g19260	U	D			C5			
+Mp6g19380	U		U		C5			
+Mp6g19470		U			C2			
+Mp6g19490	D		U	D	C1			
+Mp6g19530		U			C7			
+Mp6g19550				U	C2			
+Mp6g19580		U		U	C2			
+Mp6g19640	U	U	U		C4			
+Mp6g19790		U	U	U	C2			
+Mp6g19800		U	U	U	C2			
+Mp6g20000	U				C5			
+Mp6g20040	D			D	C6			
+Mp6g20080	D				C1			
+Mp6g20100		D			C1			
+Mp6g20120		D			C6			
+Mp6g20220	D	D		D	C1			
+Mp6g20250		D	D	D	C6			
+Mp6g20290		U			C8			
+Mp6g20300		U		U	C2			
+Mp6g20310			D		C6			
+Mp6g20360		U		U	C2			
+Mp6g20440	U			U	C5			
+Mp6g20450	D	U	D	U	C2			
+Mp6g20460	U	U	U	U	C3			
+Mp6g20490		U			C8			
+Mp6g20500		U	U		C3			
+Mp6g20540		U	U		C8			
+Mp6g20580	U				C5			
+Mp6g20600	U		U		C2			
+Mp6g20690				U	C3			
+Mp6g20700		U		U	C2			
+Mp6g20810	U				C5			
+Mp6g20880		D			C5			
+Mp6g20900			D		C6			
+Mp6g21240			U		C4			
+Mp6g21290		D	D	D	C1			
+Mp6g21320			D		C6			
+Mp6g21430	D	D	D	D	C6	Mp1R-MYB18	transcription factor, MYB	MYB
+Mp7g00020		D			C1			
+Mp7g00090	D				C1			
+Mp7g00230		U			C5			
+Mp7g00490	D	D	D	D	C1			
+Mp7g00590	D				C1			
+Mp7g00610		D			C6			
+Mp7g00640	U	U		U	C3			
+Mp7g00670	U	U	U		C4			
+Mp7g00710		U		U	C3			
+Mp7g00750		D			C6			
+Mp7g00860	D	D			C1	MpERF10	transcription factor, AP2/ERF	AP2/ERF
+Mp7g00880		U	U	U	C4			
+Mp7g00890		U			C4			
+Mp7g00920		D	D		C1			
+Mp7g00970	U	U			C4			
+Mp7g01000				U	C2			
+Mp7g01080	D				C4			
+Mp7g01110	D				C1			
+Mp7g01150		D			C1			
+Mp7g01230			U		C7			
+Mp7g01270		D	D	D	C6			
+Mp7g01300			U		C4			
+Mp7g01320	D				C1			
+Mp7g01390	D				C7			
+Mp7g01400		D	D	D	C6			
+Mp7g01430		D			C5			
+Mp7g01460		U		U	C2			
+Mp7g01520		D	D		C6			
+Mp7g01570	U	U	U	U	C4			
+Mp7g01590		U			C8			
+Mp7g01660				D	C6			
+Mp7g01740	D	D	D		C1			
+Mp7g01840		U			C3			
+Mp7g01910	U			D	C6			
+Mp7g01940	U	U	U		C5			
+Mp7g01950			U		C7			
+Mp7g01970	U	U	U	U	C3			
+Mp7g02050		U		U	C3			
+Mp7g02060			U		C4			
+Mp7g02120		D			C1			
+Mp7g02160	U		D		C6			
+Mp7g02180	U				C5			
+Mp7g02200		U		U	C2			
+Mp7g02330	D				C2			
+Mp7g02340		D	D		C5			
+Mp7g02440			D		C6			
+Mp7g02470	D	D	D	D	C7			
+Mp7g02480	D				C1			
+Mp7g02500	D				C6			
+Mp7g02590	U	U	D	U	C2			
+Mp7g02600		U		U	C2			
+Mp7g02680		D	D	D	C1			
+Mp7g02760		D	D	D	C6			
+Mp7g02860		D			C1			
+Mp7g02900		D			C5			
+Mp7g03030		U			C7			
+Mp7g03040	U	U	U		C8			
+Mp7g03070	U	D	U		C5			
+Mp7g03090		U	U		C4			
+Mp7g03150		D			C1	MpCAMTA	transcription factor, CAMTA	CAMTA
+Mp7g03180		U		U	C2			
+Mp7g03220			U		C4			
+Mp7g03250		D			C1			
+Mp7g03330			U		C4			
+Mp7g03410			D		C2			
+Mp7g03490		D	U		C4	MpGATA4	transcription factor, GATA	GATA
+Mp7g03650			U		C8			
+Mp7g03660			U		C4			
+Mp7g03680	D			D	C1			
+Mp7g03750		U			C2			
+Mp7g03770	D	D	D	D	C6			
+Mp7g03790	D	D		D	C1			
+Mp7g03860		D	D		C2			
+Mp7g03880		D	D	D	C6			
+Mp7g03960		U		U	C2			
+Mp7g04060		D			C1			
+Mp7g04070	D	D	D	D	C1			
+Mp7g04240	U	U			C3			
+Mp7g04270		U		U	C2			
+Mp7g04340			U		C4			
+Mp7g04390	U	U		U	C2			
+Mp7g04500		U			C3			
+Mp7g04580	U				C4			
+Mp7g04620	U	U	U	U	C2			
+Mp7g04630	D	D	D	D	C1			
+Mp7g04650		U			C7			
+Mp7g04800		U			C8			
+Mp7g04810	D		D	D	C6			
+Mp7g04950	U				C4			
+Mp7g05020	D		D		C6			
+Mp7g05040			U		C4			
+Mp7g05050	D			D	C7			
+Mp7g05080	D	D	D	D	C6			
+Mp7g05120	U	U	U	U	C4			
+Mp7g05170	D				C7			
+Mp7g05210	D			D	C6			
+Mp7g05240		D	D	D	C6			
+Mp7g05260	U	D	D		C5			
+Mp7g05330			U		C4			
+Mp7g05440		U		U	C2			
+Mp7g05480	U				C5			
+Mp7g05530	U				C5			
+Mp7g05560		D			C6			
+Mp7g05640		U			C8			
+Mp7g05680			U		C4			
+Mp7g05690		U			C3			
+Mp7g05750		D	D	D	C2			
+Mp7g05770		D		D	C6			
+Mp7g05830	U				C5			
+Mp7g05870	D	D	D	D	C6			
+Mp7g06000	U	U	U	U	C4			
+Mp7g06030			U		C4			
+Mp7g06170	D				C1			
+Mp7g06280			D	U	C2			
+Mp7g06340		D			C1			
+Mp7g06380	D	D		D	C1			
+Mp7g06430	D	D		D	C6			
+Mp7g06470	D		D	U	C2			
+Mp7g06530	U		D		C5			
+Mp7g06550		D			C1	MpWRKY10	transcription factor, WRKY	WRKY
+Mp7g06830	U	U			C8			
+Mp7g06880		U			C7			
+Mp7g06900		U			C3			
+Mp7g06980	D	U	U	U	C2			
+Mp7g07020	D				C6			
+Mp7g07050	U				C5			
+Mp7g07110			D		C6			
+Mp7g07160		D			C1			
+Mp7g07210	U	U	U		C4			
+Mp7g07260			U		C4			
+Mp7g07330	D				C7			
+Mp7g07610		D	D	D	C1			
+Mp7g07630	D	D	D	D	C2			
+Mp7g07690		D	D	D	C6			
+Mp7g07710			U		C4			
+Mp7g07860	U	U	U		C4			
+Mp7g07880		U	U	U	C2			
+Mp7g07960	U	U			C5			
+Mp7g07990	U	U	U	U	C4			
+Mp7g08160		U			C3			
+Mp7g08170			U	U	C4			
+Mp7g08260		D	D		C5			
+Mp7g08340	U	U			C2			
+Mp7g08450	U				C4			
+Mp7g08480			U		C4			
+Mp7g08500			U		C4			
+Mp7g08570		U		U	C2			
+Mp7g08620	U				C5			
+Mp7g08650	U				C2			
+Mp7g08740			D		C6			
+Mp7g08760	D	U	D		C7			
+Mp7g08800				U	C2			
+Mp7g08810	D	D		D	C1			
+Mp7g08820	D	D			C1			
+Mp7g08830	D				C1			
+Mp7g09030			U		C4			
+Mp7g09070			U		C7			
+Mp7g09270		U		U	C3			
+Mp7g09310		D	D	D	C6			
+Mp7g09350	U	D	D	D	C1	MpERF1	Transcription factor, potential ortholog of AtERF1	AP2/ERF
+Mp7g09410		U		U	C4			
+Mp7g09420	U		U	U	C4			
+Mp7g09660	U		U	U	C4			
+Mp7g09710		D			C1	MpHD18	transcription factor, HD	HD
+Mp7g09780		U		U	C3			
+Mp7g09875	D	D	D	D	C1			
+Mp7g10010	U	U		U	C3			
+Mp7g10020	U	U		U	C2			
+Mp7g10170	D	U		U	C2			
+Mp7g10210		U	U		C8			
+Mp7g10420			U		C7			
+Mp7g10430			D		C8			
+Mp7g10460		D	D	D	C1			
+Mp7g10710	D	D			C1			
+Mp7g10730		D	D	D	C6			
+Mp7g10770	D				C1			
+Mp7g10800	U				C7			
+Mp7g10890		U			C3			
+Mp7g10970	D	D	D	D	C6			
+Mp7g11000	D	D		D	C1			
+Mp7g11020	D	D	D	D	C6			
+Mp7g11040	D	D		D	C6			
+Mp7g11110		U		U	C2			
+Mp7g11200			D		C6			
+Mp7g11260	D	D	D	D	C6			
+Mp7g11350	D				C6			
+Mp7g11410		U	U	U	C2			
+Mp7g11430		U		U	C2			
+Mp7g11550	D	D	D	D	C6			
+Mp7g11630		U		U	C2			
+Mp7g11680	D				C1			
+Mp7g11760				D	C6			
+Mp7g11790		U			C7			
+Mp7g11850		U		U	C2			
+Mp7g11870		D		D	C1			
+Mp7g11930		U		U	C3			
+Mp7g11980	D	D	D	D	C6			
+Mp7g12060	D	D		D	C6			
+Mp7g12080			U		C7			
+Mp7g12260	U				C3			
+Mp7g12300	U	U	U	U	C4			
+Mp7g12340		U		U	C2	MpC2H2-1	transcription factor, C2H2-ZnF	C2H2-ZnF
+Mp7g12440	U		D		C5			
+Mp7g12450	U		D		C5			
+Mp7g12460	D	U	D	U	C2			
+Mp7g12560		U		U	C3			
+Mp7g12630	U				C5	MpGRAS2	transcription factor, GRAS	GRAS
+Mp7g12690			U		C4			
+Mp7g12720			U		C4			
+Mp7g12810	D			D	C1			
+Mp7g12820			U		C4			
+Mp7g12850	U				C5			
+Mp7g13030	U	U	U	U	C4			
+Mp7g13070	U				C4			
+Mp7g13130			D		C6			
+Mp7g13270		D			C6	MpAP2L2	transcription factor, AP2/ERF	AP2/ERF
+Mp7g13390	U	U		U	C2			
+Mp7g13490	U		U		C4			
+Mp7g13570			U	U	C4			
+Mp7g13630	D				C8			
+Mp7g13670		U		U	C3			
+Mp7g13690		U		U	C3			
+Mp7g13750	U	U	U	U	C4			
+Mp7g13760	U	U	U	U	C4	MpERF2	transcription factor, AP2/ERF	AP2/ERF
+Mp7g13830	U	U			C4			
+Mp7g13990		D	D		C6			
+Mp7g14030	U		U		C4			
+Mp7g14040			U		C4			
+Mp7g14050	D		U		C4			
+Mp7g14070		U		U	C2			
+Mp7g14100		U			C2			
+Mp7g14110				U	C2			
+Mp7g14140		U			C8			
+Mp7g14300		D	D		C6			
+Mp7g14390		U			C3			
+Mp7g14400		U			C3			
+Mp7g14460				U	C4			
+Mp7g14550		D			C6			
+Mp7g14660	D	D	D	D	C1			
+Mp7g14780	D	D	D		C6			
+Mp7g14890		D	D	D	C1			
+Mp7g14920		D	D	D	C1			
+Mp7g14930	U	D	D	D	C6			
+Mp7g14960		D	D		C6			
+Mp7g14970		D	D	D	C5			
+Mp7g15000	D	D	D	D	C1			
+Mp7g15020	U				C4			
+Mp7g15030			U		C4			
+Mp7g15180		U	U		C7			
+Mp7g15270		U			C8			
+Mp7g15410	U				C5			
+Mp7g15440			D		C1			
+Mp7g15460	U				C5			
+Mp7g15550	U		U		C4			
+Mp7g15570			U		C4			
+Mp7g15610	U		U		C5			
+Mp7g15620	D	D	D	D	C6			
+Mp7g15690		U			C3			
+Mp7g15800	U				C4			
+Mp7g15820	U				C5			
+Mp7g15880				D	C6			
+Mp7g16130			U		C4			
+Mp7g16140			U		C4			
+Mp7g16200	D	D	D	D	C6			
+Mp7g16220		U		U	C2			
+Mp7g16230		U		U	C2			
+Mp7g16240		U		U	C2			
+Mp7g16270			U	U	C4			
+Mp7g16300			U		C5	MpR2R3-MYB18	transcription factor, MYB	MYB
+Mp7g16380				D	C6			
+Mp7g16420		U		U	C3			
+Mp7g16430		D	D	D	C6			
+Mp7g16480			U		C4			
+Mp7g16570				U	C2			
+Mp7g16580		U		U	C2			
+Mp7g16620		D			C1			
+Mp7g16730		D			C5			
+Mp7g16760	U				C5			
+Mp7g16800	U				C5			
+Mp7g16830		D			C6			
+Mp7g17020	D	D		D	C1	MpERF11	transcription factor, AP2/ERF	AP2/ERF
+Mp7g17100		U		U	C2			
+Mp7g17110		D	D		C2			
+Mp7g17120			U		C4			
+Mp7g17200		D			C1	MpWRKY9	transcription factor, WRKY	WRKY
+Mp7g17400	U	U	U		C5			
+Mp7g17580	D				C1			
+Mp7g17690	U				C5			
+Mp7g17710		D	U		C1			
+Mp7g17750	U				C5			
+Mp7g17880			U	U	C4			
+Mp7g17950	U			U	C4			
+Mp7g17960	D				C2			
+Mp7g18000		D		D	C6			
+Mp7g18030			D		C6			
+Mp7g18100			U		C5			
+Mp7g18140	U	U	U	U	C4			
+Mp7g18170	U				C5			
+Mp7g18200			D		C6			
+Mp7g18210		U			C2			
+Mp7g18290		U		U	C2			
+Mp7g18330		D			C1			
+Mp7g18340		D	D		C6			
+Mp7g18360	D	D			C1			
+Mp7g18420			D		C6			
+Mp7g18430	U	U	U	U	C3			
+Mp7g18470	D	U			C7			
+Mp7g18550		D	D		C6			
+Mp7g18570	U				C6			
+Mp7g18730		D			C5			
+Mp7g18870	D	U			C2			
+Mp7g18900	U				C5			
+Mp7g19030			D		C6			
+Mp7g19040	U	U	U		C5			
+Mp7g19050	U				C5			
+Mp7g19120	U		U		C4			
+Mp7g19220			U		C7			
+Mp7g19240	D				C1			
+Mp7g19310		U		U	C2			
+Mp7g19340				D	C6			
+Mp7g19390	U				C8			
+Mp7g19430	D				C1			
+Mp7g19490				U	C2			
+Mp7g19550	U				C5			
+Mp7g19610			U		C5			
+Mp7g19700	D	D			C7			
+Mp8g00040			U		C7			
+Mp8g00110		U			C8			
+Mp8g00200			D		C8			
+Mp8g00210				U	C2			
+Mp8g00290		D		D	C1			
+Mp8g00310	U	U	U		C5			
+Mp8g00320	U				C5			
+Mp8g00350	D	D	D	D	C6			
+Mp8g00460				D	C6			
+Mp8g00500		U	U		C3			
+Mp8g00560		D			C7			
+Mp8g00590		U		U	C2			
+Mp8g00600	U	U		U	C2			
+Mp8g00630			U		C4			
+Mp8g00660		U			C3			
+Mp8g00680			U		C4			
+Mp8g00700		U	D		C2			
+Mp8g00720		U		U	C2			
+Mp8g00740				D	C6			
+Mp8g00750				D	C6			
+Mp8g00830	D		D		C2			
+Mp8g00860		U	U		C7			
+Mp8g00920	U	U	U		C7			
+Mp8g00960	D		U		C2			
+Mp8g01140			D		C6			
+Mp8g01160		D			C1			
+Mp8g01250			U		C7			
+Mp8g01270			U		C4			
+Mp8g01280	D	D	D	D	C6			
+Mp8g01290	D	D	D	D	C1			
+Mp8g01400		D			C1			
+Mp8g01460			U		C4			
+Mp8g01500	U	U		U	C2			
+Mp8g01740		D			C5			
+Mp8g01750	U				C5			
+Mp8g01770	D	D	D	D	C1	MpGRAS7	transcription factor, GRAS	GRAS
+Mp8g01780		U		U	C2			
+Mp8g01820		U	U		C3			
+Mp8g01830		U	U		C7			
+Mp8g01840		U		U	C2			
+Mp8g01900	U		U		C5			
+Mp8g01920		U			C7			
+Mp8g01960		D			C5			
+Mp8g01970	D	D	D	D	C1			
+Mp8g01980		D			C1			
+Mp8g02020		D	D	D	C6			
+Mp8g02110			D	D	C6			
+Mp8g02140	D	D	D	D	C6			
+Mp8g02150		U	U	U	C3			
+Mp8g02160	U				C5			
+Mp8g02240		D			C1			
+Mp8g02280	D	D		D	C1			
+Mp8g02425	U				C4			
+Mp8g02430			U		C5			
+Mp8g02450			U		C4			
+Mp8g02460		U			C4			
+Mp8g02470			U		C5			
+Mp8g02500	U	D	U		C7			
+Mp8g02530	U	U	U	U	C4			
+Mp8g02540			U		C4			
+Mp8g02690		D			C1			
+Mp8g02700		D			C1			
+Mp8g02710		D	U		C7			
+Mp8g02730		D			C1			
+Mp8g02740	D		U		C7			
+Mp8g02750		D			C1			
+Mp8g02760	D	D		D	C7			
+Mp8g02770		D			C7			
+Mp8g02840			D		C5			
+Mp8g02890	D	D	D	D	C6			
+Mp8g02910	D	D	D		C1			
+Mp8g02920		D	D		C1			
+Mp8g02930			D		C6			
+Mp8g02940	D	D	D	D	C1			
+Mp8g03070	U				C5			
+Mp8g03180	D				C1			
+Mp8g03200		D			C1			
+Mp8g03220	U				C5			
+Mp8g03300	U	U		U	C4			
+Mp8g03310	U	U	U		C7			
+Mp8g03330	D				C1			
+Mp8g03370	D	D			C7			
+Mp8g03410	D			D	C6			
+Mp8g03440				D	C6			
+Mp8g03510		D			C5			
+Mp8g03650	D			D	C1			
+Mp8g03690		D			C1			
+Mp8g03750				D	C6			
+Mp8g04090	U				C5			
+Mp8g04130		D			C6	MpBHLH24	transcription factor, bHLH	bHLH
+Mp8g04240		D	U		C4			
+Mp8g04250	D				C1			
+Mp8g04260	D				C1			
+Mp8g04290			U		C5			
+Mp8g04630		D	U	D	C1			
+Mp8g04640		D		D	C6			
+Mp8g04650		D			C1			
+Mp8g04700		D	D	D	C6			
+Mp8g04750		U	D		C2			
+Mp8g04780		D	D		C6			
+Mp8g04820		D	D		C6			
+Mp8g04850	D	D			C6			
+Mp8g04890			D		C2			
+Mp8g04910		U		U	C3			
+Mp8g04950		U		U	C2			
+Mp8g05020		U	D	U	C2			
+Mp8g05050		D			C7			
+Mp8g05060				D	C6			
+Mp8g05080	D				C2			
+Mp8g05120		U	U		C3			
+Mp8g05150		U		D	C6			
+Mp8g05200		D			C1			
+Mp8g05280	U	D			C5			
+Mp8g05340			D		C6			
+Mp8g05420	U				C5			
+Mp8g05430			U		C4			
+Mp8g05440	U	U	U	U	C4			
+Mp8g05490	U				C5			
+Mp8g05520		D	D	D	C6			
+Mp8g05610		U		U	C2			
+Mp8g05650		D			C6			
+Mp8g05670	D	D			C7			
+Mp8g05680			U		C4			
+Mp8g05840	U				C5			
+Mp8g05920		U		U	C2			
+Mp8g05970	U				C5			
+Mp8g06180	U				C5	MpIDDL1	transcription factor, IDD-related	IDD-related
+Mp8g06230		D	D	D	C6	MpBHLH51	transcription factor, bHLH	bHLH
+Mp8g06260	D	D			C7			
+Mp8g06300		U		U	C2			
+Mp8g06310		U			C3			
+Mp8g06360	D				C1			
+Mp8g06400	U	U	U	U	C4			
+Mp8g06460			U		C4			
+Mp8g06470		U		U	C2			
+Mp8g06490		U		U	C2			
+Mp8g06520			U		C4			
+Mp8g06540			U		C4			
+Mp8g06570			U		C2			
+Mp8g06590		U			C2			
+Mp8g06610		U			C2			
+Mp8g06690		U		U	C3			
+Mp8g06760		D		D	C1			
+Mp8g06780		D			C5			
+Mp8g06860	D	D		D	C1			
+Mp8g06870	U		U		C5			
+Mp8g06890		D	D	D	C6			
+Mp8g06920			U	U	C4			
+Mp8g07000			U		C4			
+Mp8g07010			U		C4			
+Mp8g07070	U	U		U	C3			
+Mp8g07170		D		D	C6			
+Mp8g07270		D	D	D	C1			
+Mp8g07330		U		U	C2			
+Mp8g07380			U		C3			
+Mp8g07540			D		C6			
+Mp8g07630				D	C6			
+Mp8g07680		D			C5	MpHD5	transcription factor, HD	HD
+Mp8g07710		U			C8			
+Mp8g07850	D	D	D	D	C1			
+Mp8g07950	D			D	C6			
+Mp8g08100	D				C1	MpTRIHELIX33	transcription factor, Trihelix	Trihelix
+Mp8g08240		D		D	C6			
+Mp8g08270		D			C6			
+Mp8g08310	D				C1			
+Mp8g08430		D			C1			
+Mp8g08450	U				C5			
+Mp8g08550			U	U	C2			
+Mp8g08570		U			C5			
+Mp8g08610	U				C5			
+Mp8g08650		U		U	C2			
+Mp8g08670		D		D	C6			
+Mp8g08700	U				C5			
+Mp8g08710	U	D	D	D	C6			
+Mp8g08780	U	D		D	C6			
+Mp8g08830		D		D	C6			
+Mp8g08840	D	D			C1			
+Mp8g08860		U			C8			
+Mp8g08900		U		U	C2			
+Mp8g08910		U	U	U	C2			
+Mp8g08920	U	U	U	U	C4			
+Mp8g08930		U			C3			
+Mp8g08940		U	D	U	C2			
+Mp8g08950	U				C5			
+Mp8g08960		U			C3			
+Mp8g08990	U				C5			
+Mp8g09000	U	U		U	C2			
+Mp8g09010	U				C5			
+Mp8g09100	U				C5			
+Mp8g09110			U		C5			
+Mp8g09150		D	U		C2			
+Mp8g09220		D		D	C1			
+Mp8g09300		U		U	C2			
+Mp8g09330	D		D	D	C1			
+Mp8g09350		D		D	C1			
+Mp8g09370			D	D	C6			
+Mp8g09420	D				C7			
+Mp8g09430			U	U	C4			
+Mp8g09630	U	D			C5			
+Mp8g09750			U		C4			
+Mp8g09770		D		D	C6			
+Mp8g09900	U	U	U		C5			
+Mp8g10000			U	U	C4			
+Mp8g10060			U		C4			
+Mp8g10080			U		C7			
+Mp8g10150		U	U		C3			
+Mp8g10340	U				C5			
+Mp8g10350		U		U	C3			
+Mp8g10370	D		D		C8			
+Mp8g10420	U				C5			
+Mp8g10450	U		U		C5			
+Mp8g10500		U			C8			
+Mp8g10570	D	D			C1			
+Mp8g10580		U		U	C3			
+Mp8g10590	D				C6			
+Mp8g10620		U			C2			
+Mp8g10660			U		C4			
+Mp8g10690		U	U	U	C2			
+Mp8g10880	U	U	U	U	C4			
+Mp8g10940				D	C6			
+Mp8g11130		D			C6			
+Mp8g11200		D		D	C1			
+Mp8g11210		D			C1			
+Mp8g11420	U		U	U	C3			
+Mp8g11560	U	U	U		C3	MpASLBD2	transcription factor, ASL/LBD	ASL/LBD
+Mp8g11870	U				C5	MpR2R3-MYB5	transcription factor, MYB	MYB
+Mp8g11970		D			C1			
+Mp8g11980		D			C1			
+Mp8g12000		U		U	C2	Mp1R-MYB3	transcription factor, MYB	MYB
+Mp8g12010		D			C1			
+Mp8g12150	U	D			C5			
+Mp8g12160	U	D	U		C5			
+Mp8g12170	D				C7			
+Mp8g12260		D	D	D	C1			
+Mp8g12350			U		C7			
+Mp8g12480	D	D		D	C6			
+Mp8g12500	U	D	D		C5			
+Mp8g12570		U		U	C2			
+Mp8g12580		U		U	C2			
+Mp8g12600	D	D	D		C1			
+Mp8g12700		U		U	C2			
+Mp8g12710		U	U	U	C3			
+Mp8g12790		D	D	D	C6			
+Mp8g12880	U		U		C5			
+Mp8g12920	D	D	D	D	C1			
+Mp8g12970	D	D		D	C1			
+Mp8g13020				D	C6			
+Mp8g13060			U		C4			
+Mp8g13070	D				C8			
+Mp8g13140	U				C8	MpGRAS11	transcription factor, GRAS	GRAS
+Mp8g13200			D		C6			
+Mp8g13250	D	U	U	U	C2			
+Mp8g13260			D		C5			
+Mp8g13320		U		U	C2			
+Mp8g13330		U			C2			
+Mp8g13380		D			C1			
+Mp8g13430		D			C5			
+Mp8g13450		D			C1			
+Mp8g13510		U			C8			
+Mp8g13590			D		C2			
+Mp8g13670	U				C5			
+Mp8g13780			D	D	C6			
+Mp8g13870	D	D			C1			
+Mp8g13940		D	D	D	C6			
+Mp8g13970		D	D	D	C1			
+Mp8g14150	D	D		D	C6			
+Mp8g14180		U		U	C2			
+Mp8g14230	U		U		C4			
+Mp8g14240			U		C4			
+Mp8g14310		U		U	C2			
+Mp8g14450	D	D	D	D	C6			
+Mp8g14480		D			C5			
+Mp8g14500			U		C7			
+Mp8g14510	D	D			C1			
+Mp8g14540			U		C7			
+Mp8g14575	D				C1			
+Mp8g14590			U	U	C4			
+Mp8g14605		D			C1			
+Mp8g14650		U	U		C4			
+Mp8g14680			D		C1			
+Mp8g14700	U				C5			
+Mp8g14720	U				C5			
+Mp8g14740	U		U		C4			
+Mp8g14750			U		C4			
+Mp8g14780		D			C6			
+Mp8g14810		D			C6			
+Mp8g14820		D		D	C1			
+Mp8g14850			U		C4			
+Mp8g14870	U	U		U	C3			
+Mp8g14900		U			C3			
+Mp8g14910	D	D	U	D	C7			
+Mp8g14930			U		C1			
+Mp8g15055		D			C6			
+Mp8g15060		D			C1			
+Mp8g15075		D			C1			
+Mp8g15160	U				C4			
+Mp8g15240	D				C1			
+Mp8g15290	D				C1			
+Mp8g15335	D	D			C1			
+Mp8g15410	D				C2			
+Mp8g15420		U	U		C4			
+Mp8g15560		D	D	D	C1			
+Mp8g15640	U	U	U		C4			
+Mp8g15750		U			C8			
+Mp8g15790	D	D			C1			
+Mp8g15800			U		C4			
+Mp8g15840	D	D	D	D	C1			
+Mp8g15900		D			C1			
+Mp8g15920	D				C1			
+Mp8g15930		U		U	C2			
+Mp8g15970		U			C8			
+Mp8g16110		U		U	C3			
+Mp8g16120	D				C1			
+Mp8g16220		U	D		C2			
+Mp8g16250			U		C4			
+Mp8g16260	D		U		C1			
+Mp8g16270	D				C7			
+Mp8g16290			U		C1			
+Mp8g16380			U		C4			
+Mp8g16390		U	U	U	C4			
+Mp8g16400			U		C4			
+Mp8g16450	U		U	U	C4			
+Mp8g16500			D		C6			
+Mp8g16530			D		C6			
+Mp8g16560	D	D		D	C6			
+Mp8g16590		D	D		C1			
+Mp8g16670		D			C1			
+Mp8g16710			D		C6			
+Mp8g16770	U	U	U	U	C4			
+Mp8g16780		U		U	C2			
+Mp8g16790			U		C4			
+Mp8g16880		U		U	C2			
+Mp8g16900		D		D	C1	MpGRF	transcription factor, GRF	GRF
+Mp8g16950		D		D	C1			
+Mp8g16970		D	D		C6			
+Mp8g17110	D	D	D	D	C1			
+Mp8g17230			D	D	C6			
+Mp8g17300		D	D	D	C6			
+Mp8g17360			U		C4			
+Mp8g17560	U	U		U	C3			
+Mp8g17750		U		U	C2			
+Mp8g17780	D				C8			
+Mp8g17810	D			D	C7			
+Mp8g17820		U			C7			
+Mp8g17840				U	C2			
+Mp8g17860		U		U	C2			
+Mp8g18530		U		U	C2			
+Mp8g18550				U	C2			
+Mp8g18560				U	C4			
+Mp8g18590	D	D		D	C6			
+Mp8g18700		U			C2			
+Mp8g18910	U	U	U		C3			
+Mp8g19020	D	D	U	D	C7			
+Mp8g19040	U	U	U		C8			
+MpVg00460	U	U	U		C5			
+MpVg00610			U		C7			
+MpVg00720	U	U	U	U	C2			
+MpVg00860		D			C1			
+MpVg01223	D	D		D	C1			
+Mpzg00230		U			C7			
+Mpzg00260		U	U		C7			
+Mpzg00310		U			C3			
+Mpzg00390		U		U	C2			
+Mpzg00480		D			C1			
+Mpzg00500	U	D	U		C5			
+Mpzg00510	U				C6			
+Mpzg00820			D		C1			
+Mpzg00970			D		C2			
+Mpzg01290	D				C7			
+Mpzg01410		D	D	D	C6	MpBHLH43	transcription factor, bHLH	bHLH
+Mpzg01490b			U		C4			
+Mpzg01590b		D	U		C4			
+Mpzg01810a			U		C4			
+Mpzg01890b			U		C4			
+Mpzg01900a			U		C4			
+Mpzg01920a			U		C4			
+Mpzg02050b	U		U	U	C4			
+Mpzg02140a			U		C4			
+Mpzg02230a			U		C4			

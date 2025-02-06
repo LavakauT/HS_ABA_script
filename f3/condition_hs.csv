@@ -1,0 +1,13 @@
+sample,genotype,treatment,rep,group
+s97,tak,cntr,rep1,tak_cntr
+s98,tak,cntr,rep2,tak_cntr
+s99,tak,cntr,rep3,tak_cntr
+s100,dko,cntr,rep1,dko_cntr
+s101,dko,cntr,rep2,dko_cntr
+s102,dko,cntr,rep3,dko_cntr
+s103,tak,1h,rep1,tak_hs
+s104,tak,1h,rep2,tak_hs
+s105,tak,1h,rep3,tak_hs
+s106,dko,1h,rep1,dko_hs
+s107,dko,1h,rep2,dko_hs
+s108,dko,1h,rep3,dko_hs

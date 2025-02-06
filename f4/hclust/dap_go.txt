@@ -1,0 +1,11 @@
+GO.ID	Term	Value	Count	Group
+GO:0006457	protein folding	-5.84466396253494	15	HSF3_DAP_footprint
+GO:0009408	response to heat	-11.3131850454927	18	HSF3_DAP_footprint
+GO:0009644	response to high light intensity	-4.941573975543	8	HSF3_DAP_footprint
+GO:0016052	carbohydrate catabolic process	-5.53135733160849	14	HSF3_DAP_footprint
+GO:0016102	diterpenoid biosynthetic process	-3.34901290561655	5	HSF3_DAP_footprint
+GO:0019464	glycine decarboxylation via glycine cleavage system	-2.93404701968613	3	HSF3_DAP_footprint
+GO:0031221	arabinan metabolic process	-11.1176462536113	7	HSF3_DAP_footprint
+GO:0031222	arabinan catabolic process	-11.5350635708783	7	HSF3_DAP_footprint
+GO:0044283	small molecule biosynthetic process	-2.20641913263184	16	HSF3_DAP_footprint
+GO:0090377	seed trichome initiation	-3.94157397554299	4	HSF3_DAP_footprint

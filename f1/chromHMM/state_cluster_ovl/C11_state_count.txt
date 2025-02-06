@@ -1,0 +1,13 @@
+   4 C11_E1.bed
+  18 C11_E10.bed
+   4 C11_E11.bed
+   0 C11_E12.bed
+   0 C11_E2.bed
+   7 C11_E3.bed
+  21 C11_E4.bed
+  21 C11_E5.bed
+  10 C11_E6.bed
+  18 C11_E7.bed
+   0 C11_E8.bed
+   5 C11_E9.bed
+ 108 total

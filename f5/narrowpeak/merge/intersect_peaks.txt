@@ -1,0 +1,5 @@
+  47347 intersect_Tak1_ABA_vs_CK.bed
+  47456 intersect_dko_ABA_vs_CK.bed
+  50860 intersect_hsfa_ABA_vs_CK.bed
+  47239 intersect_hsfb_ABA_vs_CK.bed
+ 192902 total

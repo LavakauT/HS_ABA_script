@@ -1,0 +1,2 @@
+geneId	RNA_cluster	ATAC_cluster	peak	seqnames	start	end	width	distanceToTSS
+Mp4g06240	C2	C4	chr4.6956338.6956444	chr4	6956338	6956444	107	-1268

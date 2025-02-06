@@ -1,0 +1,13 @@
+   13 C4_E1.bed
+   11 C4_E10.bed
+    3 C4_E11.bed
+    0 C4_E12.bed
+    4 C4_E2.bed
+    9 C4_E3.bed
+   21 C4_E4.bed
+   91 C4_E5.bed
+   86 C4_E6.bed
+   42 C4_E7.bed
+    6 C4_E8.bed
+    5 C4_E9.bed
+  291 total

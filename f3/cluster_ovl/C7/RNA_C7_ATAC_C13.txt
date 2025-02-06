@@ -1,0 +1,2 @@
+gene	RNA_cluster	ATAC_cluster
+Mp8g12170	C7	C13

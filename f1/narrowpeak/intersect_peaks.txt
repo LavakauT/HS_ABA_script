@@ -1,0 +1,5 @@
+  27167 intersect_Tak1_HS_vs_CK.bed
+  39004 intersect_dko_HS_vs_CK.bed
+  33801 intersect_hsfa_HS_vs_CK.bed
+  34761 intersect_hsfb_HS_vs_CK.bed
+ 134733 total

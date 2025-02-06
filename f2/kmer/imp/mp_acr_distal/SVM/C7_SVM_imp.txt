@@ -1,0 +1,6 @@
+file	GCGCGC	CGTCGC	GCGGGA	CGCCCG	CGCCAG	CGTTGC	CGCTCC	GCGCGA	GCGCCC	CGGGGC	GAGCAC	GTAAGA
+neg_C7_4.pcre_df_p0.01_mod.txt_SVM_imp	0.50	0.17	1.00	0.83	0.67	0.33	NA	NA	NA	NA	NA	NA	
+neg_C7_5.pcre_df_p0.01_mod.txt_SVM_imp	NA	0.20	NA	NA	NA	NA	1.00	0.80	0.60	0.40	NA	NA	
+neg_C7_7.pcre_df_p0.01_mod.txt_SVM_imp	0.50	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.00	
+neg_C7_6.pcre_df_p0.01_mod.txt_SVM_imp	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.00	NA	
+count	2	2	1	1	1	1	1	1	1	1	1	1	

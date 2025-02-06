@@ -1,0 +1,4 @@
+  47236 /Users/user/Desktop/f5/narrowpeak/merge/ABA/intersect_Tak1_vs_dko_ABA.bed
+  49726 /Users/user/Desktop/f5/narrowpeak/merge/ABA/intersect_Tak1_vs_hsfa_ABA.bed
+  46692 /Users/user/Desktop/f5/narrowpeak/merge/ABA/intersect_Tak1_vs_hsfb_ABA.bed
+ 143654 total

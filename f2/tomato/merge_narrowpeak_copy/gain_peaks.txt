@@ -1,0 +1,4 @@
+ 11135 /Users/user/Desktop/tomato_atac/merge_narrowpeak_copy/bed/gain/gain_ATAC_M82_1h_vs_0h.bed
+   903 /Users/user/Desktop/tomato_atac/merge_narrowpeak_copy/bed/gain/gain_ATAC_M82_6h_vs_0h.bed
+   321 /Users/user/Desktop/tomato_atac/merge_narrowpeak_copy/bed/gain/gain_ATAC_M82_6h_vs_1h.bed
+ 12359 total

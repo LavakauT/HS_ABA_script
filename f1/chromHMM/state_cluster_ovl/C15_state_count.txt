@@ -1,0 +1,13 @@
+   4 C15_E1.bed
+   3 C15_E10.bed
+   1 C15_E11.bed
+   2 C15_E12.bed
+   0 C15_E2.bed
+   4 C15_E3.bed
+   5 C15_E4.bed
+   6 C15_E5.bed
+  12 C15_E6.bed
+  13 C15_E7.bed
+   3 C15_E8.bed
+   1 C15_E9.bed
+  54 total

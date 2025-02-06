@@ -1,0 +1,9 @@
+file	GGCGCC	CGCCGC	CAGCTG	AGCGCCT	CGCTTA	CCAGAC	CGATAG	AGGTTG	AGATGA	AGACAT	GACAGA	GCGCCC	CGATGCC	GCTGCA	TGTGAA	CATCGA	AGCTGG
+neg_C6_10.pcre_df_p0.01_mod.txt_LogReg_imp	0.88	NA	NA	1.00	0.75	0.62	0.50	0.38	0.25	0.12	NA	NA	NA	NA	NA	NA	NA	
+neg_C6_2.pcre_df_p0.01_mod.txt_LogReg_imp	0.50	0.75	NA	NA	NA	NA	NA	NA	NA	NA	1.00	0.25	NA	NA	NA	NA	NA	
+neg_C6_7.pcre_df_p0.01_mod.txt_LogReg_imp	0.33	0.67	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.00	NA	
+neg_C6_5.pcre_df_p0.01_mod.txt_LogReg_imp	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.00	0.50	NA	NA	
+neg_C6_1.pcre_df_p0.01_mod.txt_LogReg_imp	NA	NA	1.00	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	
+neg_C6_4.pcre_df_p0.01_mod.txt_LogReg_imp	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.00	NA	NA	NA	NA	
+neg_C6_8.pcre_df_p0.01_mod.txt_LogReg_imp	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1.00	
+count	3	2	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	

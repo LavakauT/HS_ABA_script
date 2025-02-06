@@ -1,0 +1,13 @@
+   11 C9_E1.bed
+   31 C9_E10.bed
+    9 C9_E11.bed
+    2 C9_E12.bed
+   15 C9_E2.bed
+   48 C9_E3.bed
+   25 C9_E4.bed
+    6 C9_E5.bed
+   38 C9_E6.bed
+   35 C9_E7.bed
+    3 C9_E8.bed
+    7 C9_E9.bed
+  230 total

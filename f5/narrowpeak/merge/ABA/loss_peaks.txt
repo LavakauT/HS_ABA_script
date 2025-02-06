@@ -1,0 +1,4 @@
+  5345 /Users/user/Desktop/f5/narrowpeak/merge/ABA/loss_Tak1_vs_dko_ABA.bed
+  2938 /Users/user/Desktop/f5/narrowpeak/merge/ABA/loss_Tak1_vs_hsfa_ABA.bed
+  5726 /Users/user/Desktop/f5/narrowpeak/merge/ABA/loss_Tak1_vs_hsfb_ABA.bed
+ 14009 total

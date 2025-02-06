@@ -1,0 +1,4 @@
+  46413 /Users/user/Desktop/f5/narrowpeak/merge/CK/intersect_Tak1_vs_dko_CK.bed
+  48149 /Users/user/Desktop/f5/narrowpeak/merge/CK/intersect_Tak1_vs_hsfa_CK.bed
+  46693 /Users/user/Desktop/f5/narrowpeak/merge/CK/intersect_Tak1_vs_hsfb_CK.bed
+ 141255 total

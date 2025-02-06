@@ -1,0 +1,15 @@
+Feature	Frequency	group
+Promoter	15.6726973336993	Tak1 CK-merge
+1st Exon	30.6846249656949	Tak1 CK-merge
+Other Exon	9.1093331081509	Tak1 CK-merge
+1st Intron	0.819101099875446	Tak1 CK-merge
+Other Intron	0.966877071502459	Tak1 CK-merge
+Downstream (<=300)	1.44187126601786	Tak1 CK-merge
+Distal Intergenic	41.3054951550592	Tak1 CK-merge
+Promoter	15.9786599590239	Tak1 ABA-merge
+1st Exon	29.9125707446701	Tak1 ABA-merge
+Other Exon	9.17297198612492	Tak1 ABA-merge
+1st Intron	0.839807696208694	Tak1 ABA-merge
+Other Intron	1.01831754467818	Tak1 ABA-merge
+Downstream (<=300)	1.47473477087855	Tak1 ABA-merge
+Distal Intergenic	41.6029372984157	Tak1 ABA-merge

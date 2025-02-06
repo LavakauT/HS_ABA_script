@@ -1,0 +1,4 @@
+  564 /Users/user/Desktop/f1/narrowpeak/merge/CK/loss_Tak1_vs_dko_CK.bed
+ 1852 /Users/user/Desktop/f1/narrowpeak/merge/CK/loss_Tak1_vs_hsfa_CK.bed
+  956 /Users/user/Desktop/f1/narrowpeak/merge/CK/loss_Tak1_vs_hsfb_CK.bed
+ 3372 total

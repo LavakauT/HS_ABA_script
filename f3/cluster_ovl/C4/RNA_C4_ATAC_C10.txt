@@ -1,0 +1,3 @@
+gene	RNA_cluster	ATAC_cluster
+Mp2g05080	C4	C10
+Mp6g05670	C4	C10

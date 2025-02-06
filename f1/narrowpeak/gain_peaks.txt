@@ -1,0 +1,5 @@
+  4758 gain_Tak1_HS_vs_CK.bed
+  2383 gain_dko_HS_vs_CK.bed
+  5460 gain_hsfa_HS_vs_CK.bed
+  3629 gain_hsfb_HS_vs_CK.bed
+ 16230 total

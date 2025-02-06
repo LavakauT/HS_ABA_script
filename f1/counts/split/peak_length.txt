@@ -1,0 +1,16 @@
+15550290 Tak1-CK-1_peaks.narrowPeak
+23986123 Tak1-CK-2_peaks.narrowPeak
+20168520 Tak1-HS-1_peaks.narrowPeak
+20059674 Tak1-HS-2_peaks.narrowPeak
+15062014 dko-CK-1_peaks.narrowPeak
+12598812 dko-CK-2_peaks.narrowPeak
+12504597 dko-HS-1_peaks.narrowPeak
+13864626 dko-HS-2_peaks.narrowPeak
+10386008 hsfa-CK-1_peaks.narrowPeak
+11025952 hsfa-CK-2_peaks.narrowPeak
+14263739 hsfa-HS-1_peaks.narrowPeak
+13721127 hsfa-HS-2_peaks.narrowPeak
+10571815 hsfb-CK-1_peaks.narrowPeak
+9128444 hsfb-CK-2_peaks.narrowPeak
+12330569 hsfb-HS-1_peaks.narrowPeak
+12661662 hsfb-HS-2_peaks.narrowPeak
