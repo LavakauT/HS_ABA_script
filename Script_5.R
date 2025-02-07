@@ -322,7 +322,7 @@ ddsMF <- DESeq(ddsMF)
 
 ## remove all genes with counts < 15 in more than 75% of samples (21*0.75=16)
 ## remember to change this
-## suggested by WGCNA on RNAseq FAQ
+## suggested by WGCNA on RNA-seq FAQ
 
 dds75 <- ddsMF[rowSums(counts(ddsMF) >= 15) >= 16,]
 nrow(dds75) # 13692/19472 genes
@@ -444,9 +444,9 @@ for (i in 1:nrow(range)) {
 
 
 ###### ATAC-SEQ BETWEEN HS AND ABA OF ABA MARKER GENES  ######
-# the bed is from : awk '$3=="gene"' MpTak_v6.1r1.gff | awk 'BEGIN {OFS="\t"} {print $1,$4,$5,$9,$6,$7}' | sed -E 's/ID=(AT.{7});.*\t\./\1\t\./' > MpTak_v6.1_whole_gene_for_deeptools.bed
-# this bed-script is supported by https://github.com/WangLab-CEMPS/2020STARProtocols_pipeline/tree/main/UpStreamAnalysis
-# the aba_marker_genes.txt is from our lab
+# The bed is from: awk '$3=="gene"' MpTak_v6.1r1.gff | awk 'BEGIN {OFS="\t"} {print $1,$4,$5,$9,$6,$7}' | sed -E 's/ID=(AT.{7});.*\t\./\1\t\./' > MpTak_v6.1_whole_gene_for_deeptools.bed
+# This bed script is supported by https://github.com/WangLab-CEMPS/2020STARProtocols_pipeline/tree/main/UpStreamAnalysis
+# The aba_marker_genes.txt is from our lab
 bed <- read.delim('f5/MpTak_v6.1_whole_gene_for_deeptools.bed', header = F)
 marker <- read.delim('f5/aba_marker_genes.txt', header = F)
 
@@ -528,7 +528,7 @@ for (i in 1:4) {
                              TxDb=Txdb_gtf,
                              level ='gene')
     ## export peaks annotation
-    ## only loss 6 peaks
+    ## only loss six peaks
     peakAnno
     peakAnno@anno
     peakAnno_tb <- as_tibble(peakAnno@anno) %>% 
@@ -579,7 +579,7 @@ for (i in 1:4) {
                              TxDb=Txdb_gtf,
                              level ='gene')
     ## export peaks annotation
-    ## only loss 6 peaks
+    ## only loss six peaks
     peakAnno
     peakAnno@anno
     peakAnno_tb <- as_tibble(peakAnno@anno) %>% 
@@ -619,7 +619,7 @@ for (i in 1:4) {
                              TxDb=Txdb_gtf,
                              level ='gene')
     ## export peaks annotation
-    ## only loss 6 peaks
+    ## only loss six peaks
     peakAnno
     peakAnno@anno
     peakAnno_tb <- as_tibble(peakAnno@anno) %>% 
