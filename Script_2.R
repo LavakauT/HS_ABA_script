@@ -230,18 +230,6 @@ head(assay(vsdMF), 5) #assay is to extract the matrux of normalized values
 dir.create("f3/vst_norm_counts")
 write.csv(data.frame(assay(vsdMF)), "f3/vst_norm_counts/vst_norm_counts_hs.txt")
 
-
-# pcaData <- plotPCA(vsdMF, intgroup = c("treatment", "genotype"), returnData = TRUE)
-# percenVar <- round(100 * attr(pcaData, "percentVar"))
-# plt <- ggplot(pcaData, aes(PC1, PC2, color = genotype, shape = treatment)) + 
-#   geom_point(size = 3) +
-#   xlab(paste0("PC1: ", percenVar[1], "% variance")) +
-#   ylab(paste0("PC2: ", percenVar[2], "% variance")) +
-#   labs(color = 'treatment', shape = 'genotype') +
-#   theme_classic() +
-#   coord_fixed()
-# plt
-
 res <- results(dds75)
 res
 ########################
@@ -705,32 +693,6 @@ length(unique(df$gene)) # 3166 genes
 
 write.table(df, paste(p_file, 'All_DEGs.txt', sep = '/'),
             row.names = FALSE, quote = FALSE , sep = '\t')
-
-
-# export DEG
-# deg_count <- df %>% 
-#   group_by(group) %>% 
-#   summarise(count = n()) %>% 
-#   separate(group, c('expression', 'genotype'), sep = '\\s') %>% 
-#   separate(expression, c('expression', 'treatment'), sep = '_')
-# 
-# p <- deg_count %>% 
-#   ggplot(.,
-#          aes(x = genotype,
-#              y = count,
-#              fill = expression)) +
-#   geom_bar(stat = 'identity',
-#            position = 'dodge') +
-#   geom_text(aes(label = ifelse(expression == 'U', count, '')), vjust = -1, hjust = 0) +
-#   geom_text(aes(label = ifelse(expression == 'D', count, '')), vjust = -1, hjust = 1) +
-#   scale_fill_manual(values = c('#ca0025', '#91bfdb')) +
-#   labs(x = 'Genotype (HS)',
-#        y = 'counts',
-#        fill = 'Expression') +
-#   theme_classic() +
-#   theme(axis.title = element_text(size = 12, face = 'bold'),
-#         axis.text.x = element_text(size = 10, face = 'bold'),
-#         axis.text.y = element_text(size = 10, face = 'bold'))
 
 p_vst <- 'f3/vst_norm_counts'
 meta <- read.delim(paste(p_vst, 'vst_norm_counts_hs_metadata.txt', sep = '/'))
