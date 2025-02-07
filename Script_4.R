@@ -49,8 +49,7 @@ deg <- read.delim('f3/All_DEGs.txt') %>%
   filter(!is.na(expression))
 
 # plantTFDB database for transcription factors annotation----------------
-# before mapping the TF send the all new version genes to MP.database for old version
-# load the converted ID file
+# Load the converted ID file
 mr.tf <- read.delim('f4/MpTak_v6.1_TF.txt') %>%
   distinct(.keep_all = TRUE)
 
@@ -69,7 +68,7 @@ input.genes <- attr %>%
   dplyr::select('ID') %>%
   distinct()
 
-# out of bounds: solv: inner_join
+# out of bounds: solve: inner_join
 all.genes <- attr %>% 
   dplyr::select(ID) %>% 
   distinct()
