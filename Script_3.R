@@ -28,7 +28,7 @@ allowWGCNAThreads()
 ############################################# Supporting Figure 5: F,G
 ###### ATAC-SEQ PEAKS: MARCHANTIA ######
 # make TP bed
-# Strand of each peak need to follow its annotated gene
+# The strand of each peak needs to follow its annotated gene
 # Peak name, Chr, Start, End, Strand
 # setwd("~/folder_to_all_the_data")
 
@@ -794,64 +794,7 @@ for (z in input_list_1) {
       # append the data
       full <- rbind(full, bound_profile_combine)
       top10 <- rbind(top10, bound_profile_combine_top)
-      
-      
-      # pdf(paste0('plots/', input1, '_', input2, '_bound.pdf'),
-      #     width = 10, height = 7)
-      # plt <- bound_profile_combine %>%
-      #   ggplot(.,
-      #          aes(x = bound_type,
-      #              y = kmer_name,
-      #              color = median_bound_log2fc,
-      #              size = bound_kmer_ratio)) +
-      #   geom_point() +
-      #   scale_color_gradient(low = 'blue',
-      #                        high = 'red') +
-      #   labs(x = 'Cluster',
-      #        y = 'TF Family (kmer)',
-      #        color = 'Median HS/CK log2FC',
-      #        size = 'DE bound kmer/total kmer') +
-      #   scale_x_discrete(position = "top") +
-      #   facet_grid(.~peak_cluster) +
-      #   theme_classic() +
-      #   theme(axis.title = element_text(size = 12, face = 'bold'),
-      #         axis.text = element_text(size = 10, face = 'bold'),
-      #         strip.background = element_blank(),
-      #         strip.text = element_text(size = 12, face = 'bold'),
-      #         strip.placement = 'outside')
-      # 
-      # grid.draw(plt)
-      # dev.off()
-      
-      
-      # pdf(paste0('plots/bound_quantile_support/', input1, '_', input2, '_bound.pdf'),
-      #     width = 10, height = 7)
-      # plt <- bound_profile_combine %>%
-      #   ggplot(.,
-      #          aes(x = bound_type,
-      #              y = kmer_name,
-      #              color = median_bound_log2fc,
-      #              size = bound_kmer_ratio)) +
-      #   geom_point() +
-      #   scale_color_gradient(low = 'blue',
-      #                        high = 'red') +
-      #   labs(x = 'Cluster',
-      #        y = 'TF Family (kmer)',
-      #        color = 'Median HS/CK log2FC',
-      #        size = 'DE bound kmer/total kmer') +
-      #   scale_x_discrete(position = "top") +
-      #   facet_grid(.~peak_cluster) +
-      #   theme_classic() +
-      #   theme(axis.title = element_text(size = 12, face = 'bold'),
-      #         axis.text = element_text(size = 10, face = 'bold'),
-      #         strip.background = element_blank(),
-      #         strip.text = element_text(size = 12, face = 'bold'),
-      #         strip.placement = 'outside')
-      # 
-      # grid.draw(plt)
-      # dev.off()
-      
-      
+
       
       # export 95% and 5% bound bed
       # you can check whether the output is the same with bound_profile_95 or bound_profile_5
@@ -1518,7 +1461,7 @@ dev.off()
 ###### CO-OCCURRENCE KMERS ######
 # We only discussed differential binding between HS and Cntr (CK) under the same genotype.
 # Therefore, the input1 can be 'Tak1_HS_vs_Tak1_CK', 'hsfa_HS_vs_hsfa_CK', 'hsfb_HS_vs_hsfb_CK', 'dko_HS_vs_dko_CK'.
-# And the input2 can be promoter (proximal) or distal.
+# Input2 can be promoter (proximal) or distal.
 # differential binding events in 95% or 5% quantile
 input_list_1 <- c('Tak1_HS_vs_Tak1_CK', 'hsfa_HS_vs_hsfa_CK', 'hsfb_HS_vs_hsfb_CK', 'dko_HS_vs_dko_CK')
 input_list_2 <- c('promoter', 'distal')
@@ -2526,7 +2469,7 @@ save.image(file = paste(p, 'HS_peak.RData', sep = '/'))
 
 ###### ACR WITH PROXIMAL AND DISTAL: TOMATO ######
 # make TP bed
-# Strand of each peak need to follow its annotated gene
+# The strand of each peak needs to follow its annotated gene
 # Peak name, Chr, Start, End, Strand
 # setwd("~/folder_to_all_the_data")
 
@@ -3171,7 +3114,7 @@ dev.off()
 ###### SUMMARY RESULTS FROM KMER BINDETECT BY TOBIAS: TOMATO ######
 # We only discussed differential binding between HS and Cntr (CK) under the same genotype.
 # Therefore, the input1 can be 'ATAC_M82_1h_vs_ATAC_M82_0h', 'ATAC_M82_6h_vs_ATAC_M82_0h'.
-# And the input2 can be promoter (proximal) or distal.
+# Input2 can be promoter (proximal) or distal.
 # differential binding events in 95% or 5% quantile
 input_list_1 <- c('ATAC_M82_1h_vs_ATAC_M82_0h', 'ATAC_M82_6h_vs_ATAC_M82_0h')
 input_list_2 <- c('proximal', 'distal')
@@ -3417,67 +3360,7 @@ for (z in input_list_1) {
       # append the data
       full <- rbind(full, bound_profile_combine)
       top10 <- rbind(top10, bound_profile_combine_top)
-      
-      # 
-      # pdf(paste0('f2/tomato/plot/', input1, '_', input2, '_bound.pdf'),
-      #     width = 10, height = 6)
-      # plot <- bound_profile_combine %>%
-      #   ggplot(.,
-      #          aes(x = bound_type,
-      #              y = kmer_name,
-      #              color = median_bound_log2fc,
-      #              size = bound_kmer_ratio)) +
-      #   geom_point() +
-      #   scale_color_gradient2(low = 'blue',
-      #                         mid = 'white',
-      #                         high = 'red',
-      #                         midpoint = 0) +
-      #   labs(x = 'Cluster',
-      #        y = 'TF Family (kmer)',
-      #        color = 'Median HS/CK log2FC',
-      #        size = 'DE bound kmer/total kmer') +
-      #   scale_x_discrete(position = "top") +
-      #   facet_grid(.~peak_cluster) +
-      #   theme_classic() +
-      #   theme(axis.title = element_text(size = 12, face = 'bold'),
-      #         axis.text = element_text(size = 10, face = 'bold'),
-      #         strip.background = element_blank(),
-      #         strip.text = element_text(size = 12, face = 'bold'),
-      #         strip.placement = 'outside')
-      # 
-      # grid.draw(plot)
-      # dev.off()
-      
-      
-      # setwd('f2/tomato')
-      # pdf(paste0('plot/bound_quantile_support/', input1, '_', input2, '_bound.pdf'),
-      #     width = 10, height = 7)
-      # plot <- bound_profile_combine %>%
-      #   ggplot(.,
-      #          aes(x = bound_type,
-      #              y = kmer_name,
-      #              color = median_bound_log2fc,
-      #              size = bound_kmer_ratio)) +
-      #   geom_point() +
-      #   scale_color_gradient(low = 'blue',
-      #                        high = 'red') +
-      #   labs(x = 'Cluster',
-      #        y = 'TF Family (kmer)',
-      #        color = 'Median HS/CK log2FC',
-      #        size = 'DE bound kmer/total kmer') +
-      #   scale_x_discrete(position = "top") +
-      #   facet_grid(.~peak_cluster) +
-      #   theme_classic() +
-      #   theme(axis.title = element_text(size = 12, face = 'bold'),
-      #         axis.text = element_text(size = 10, face = 'bold'),
-      #         strip.background = element_blank(),
-      #         strip.text = element_text(size = 12, face = 'bold'),
-      #         strip.placement = 'outside')
-      # 
-      # grid.draw(plot)
-      # dev.off()
-      
-      
+
       
       # export 95% and 5% bound bed
       # you can check whether the output is the same with bound_profile_95/5
