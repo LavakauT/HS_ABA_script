@@ -1,0 +1,23 @@
+# Requirements for RNA-ATAC Correlation Analysis V2
+# Python 3.7+ required
+
+# Core data manipulation
+pandas>=1.3.0
+numpy>=1.20.0
+
+# Statistical analysis
+scipy>=1.7.0
+statsmodels>=0.13.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Optional: For enhanced performance
+# numba>=0.56.0  # JIT compilation for faster processing
+# joblib>=1.1.0  # Parallel processing support
+
+# Development and testing (optional)
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.9.0

@@ -1,0 +1,16 @@
+# FRiP Visualization Requirements
+# Core data analysis and visualization libraries
+
+# Data manipulation and analysis
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualization libraries
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Statistical analysis
+scipy>=1.9.0
+
+# Additional utilities
+pathlib2>=2.3.0; python_version < "3.4" 

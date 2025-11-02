@@ -1,0 +1,28 @@
+# Requirements for Hierarchical Clustering Analysis
+# Python packages needed for the hierarchical clustering analysis
+
+# Core data analysis
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Scientific computing and clustering
+scipy>=1.9.0
+scikit-learn>=1.1.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Additional utilities
+pathlib2>=2.3.0  # For Python < 3.4 compatibility
+typing-extensions>=4.0.0  # For enhanced type hints
+
+# Optional: For enhanced visualization
+plotly>=5.0.0  # Interactive plots
+kaleido>=0.2.1  # Static image export for plotly
+
+# Optional: For parallel processing (if needed)
+joblib>=1.1.0
+
+# Optional: For progress bars
+tqdm>=4.64.0 

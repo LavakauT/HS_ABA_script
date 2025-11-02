@@ -1,0 +1,57 @@
+# Requirements for Peaks Annotation Analysis
+# This file contains all Python packages needed for peaks annotation analysis
+
+# Core data analysis libraries
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# R integration
+rpy2>=3.5.0
+
+# Utility libraries
+pathlib2>=2.3.0  # For Python < 3.4 compatibility (if needed)
+
+# Optional: For enhanced logging and configuration
+pyyaml>=6.0
+configparser>=5.0
+
+# Development and testing (optional)
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# R packages (install separately using R)
+# These need to be installed in R environment:
+# install.packages(c("GenomicFeatures", "ChIPseeker", "GenomicRanges", "BiocManager"))
+# BiocManager::install(c("GenomicFeatures", "ChIPseeker", "GenomicRanges"))
+
+# Additional R packages that might be useful:
+# install.packages(c("dplyr", "ggplot2", "readr"))
+
+# System requirements:
+# - R >= 4.0.0
+# - Bioconductor packages: GenomicFeatures, ChIPseeker, GenomicRanges
+# - Python >= 3.8
+
+# Installation notes for R packages:
+# 1. Start R console
+# 2. Install BiocManager if not already installed:
+#    if (!require("BiocManager", quietly = TRUE))
+#        install.packages("BiocManager")
+# 3. Install required Bioconductor packages:
+#    BiocManager::install(c("GenomicFeatures", "ChIPseeker", "GenomicRanges"))
+# 4. Install additional CRAN packages:
+#    install.packages(c("dplyr", "ggplot2", "readr"))
+
+# For Ubuntu/Debian systems, you might need:
+# sudo apt-get install r-base r-base-dev
+# sudo apt-get install libcurl4-openssl-dev libssl-dev libxml2-dev
+
+# For macOS with Homebrew:
+# brew install r
+# brew install --cask rstudio  # Optional, for R development
+
+# For conda users:
+# conda install -c conda-forge r-base r-essentials
+# conda install -c bioconda bioconductor-genomicfeatures bioconductor-chipseeker bioconductor-genomicranges 
